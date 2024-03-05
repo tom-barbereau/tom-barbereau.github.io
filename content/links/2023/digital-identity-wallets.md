@@ -4,7 +4,7 @@ slug: digital-identity-wallets-and-their-semantic-contradictions
 date: 2023-06-13T11:00:00+02:00
 link: https://aisel.aisnet.org/ecis2023_rp/288/
 tags:
-  - digital identity
+  - identity
   - wallet
 ---
 
