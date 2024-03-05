@@ -1,9 +1,6 @@
-# My personal website, built with Hugo
+# Welcome to My Personal Website Repository
 
-Read [Migrating my site to Hugo](https://sebastiandedeyne.com/migrating-my-site-to-hugo/) for the full story.
+Thank you for visiting my personal website hosted on GitHub! Below you'll find some information about this repository and how to navigate through it.
 
-## License
-
-No license.
-
-This repository is open sourced as a real life Hugo example. The design and frontend assets are not meant to be forked or reused.
+## About
+This repository hosts the code for my personal website. It serves as a platform to showcase my portfolio, share my interests, and connect with others.
