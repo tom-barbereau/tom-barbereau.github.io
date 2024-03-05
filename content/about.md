@@ -9,10 +9,9 @@ I contributed impactful research on [decentralised autonomous organisations](htt
 
 Having successfully collaborated and published with lawyers, mathematicians, and computer scientists, my strength lies in cross-disciplinary efforts, to find logical relations between topics, and to take apart socio-technological controversies. 
 
+***
 
-<details> <summary> Biography in full </summary>
-
-### Biography
+## Full Biography
 I grew up in a bilingual (French, German) household and attended the European School of Karlsruhe. I completed my BA in Liberal Arts & Science with a specialisation in politics, philosophy, and economics (PPE) at the University of Groningen, The Netherlands in summer 2018. 
 
 As early as 2016-7 I developed a keen interest in blockchain, most notably, with the cryptocurrency Bitcoin and the then nascent Ethereum ecosystem. This interest led me to a 12-month internship at the company builder and Berlin-based incubator Next Big Thing AG. Here, I supported entrepreneurs in developing marketing strategies and presenting their buisnesses to clients. 
@@ -33,7 +32,6 @@ I reside in Amsterdam (The Netherlands) and actively learns Dutch out of persona
 + University of Amsterdam, [Institute for Information Law](https://www.ivir.nl/) (IViR)
 + University of Luxembourg, [Interdisciplinary Centre for Security, Reliability and Trust](https://www.uni.lu/snt-en/) (SnT)
 
-</details>
 
 + Full resume accessible [here](https://nbviewer.org/github/tom-barbereau/tom-barbereau.github.io/blob/main/docs/Resume.pdf).
 
