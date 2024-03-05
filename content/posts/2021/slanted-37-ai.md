@@ -21,7 +21,7 @@ After [Slanted #34 - Europe](tom-barbereau.github.io/slanted-34-europe/) and [Sl
 > More than ever this issue made us adventurers: looking with doubtful eyes at this new world of computation, numbers, and transhumanism, where (OMG!) machines are in many areas smarter than us and, occasionally, even encoded with higher ethical and moral standards than we will ever have.
 > </details>
 
-<iframe width="560" height="315" src="https://www.slanted.de/wp-content/uploads/2021/02/Slanted-Magazine-37-AI_Cover_02_1200px.jpg" title="Slanted AI cover" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.slanted.de/wp-content/uploads/2021/02/Slanted-Magazine-37-AI_Cover_02_1200px.jpg" title="Slanted AI cover" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 In parts alone, in parts together, we wrote on digital culture, privacy, and echo chambers, amongst other topics. 
 
