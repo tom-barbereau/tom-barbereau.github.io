@@ -2,7 +2,7 @@
 title: "Tokenization and Regulatory Compliance for Art and Collectibles Markets"
 slug: tokenisation-regulatory-compliance-art-collectibles-markets
 date: 2022-09-11T11:00:00+02:00
-link: https://link.springer.com/chapter/10.1007/978-3-030-95108-5_8
+link: https://link.springer.com/chapter/10.1007/978-3-030-95108-5_8/
 tags:
   - art
   - tokenisation
