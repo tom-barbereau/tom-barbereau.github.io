@@ -1,70 +1,26 @@
 ---
 title: Talks
-image: /media/desk-2022.jpeg
-description: My uses page, a spotlight of the tools I enjoy using most.
+description: 
 ---
 
-<p class="intro">Welcome to my <code>/uses</code> page! This isn't meant to be a complete list of everything I touch on a daily basis, but a spotlight of the tools I enjoy using most.<p>
-
-![My desk in 2022](/media/desk-2022.jpeg)
-
-## Workspace
-
-| | |
-|---|--:|
-| **Laptop** | MacBook Pro M1 2020 |
-| **Stand** | Rain Design mStand |
-| **Speakers** | Bose Companion 2 Series II speakers |
-| **Monitor** | LG 27MU67 |
-| **Keyboard** | Keychron Q1 w/ Phantom Red switches |
-| **Mouse** | Logitech MX Master |
-| **Mic** | Shure MV7 |
-| **Studio arm** | Rode PSA1 |
-| **Headphones** | AIAIAI TMA-2 |
-| **Desk** | Fully Jarvis w/ custom rubberwood top |
-| **Chair** | Herman Miller Aeron |
-| **Light** | Mr. Wattson |
+I frequently talk at events and in academic conference or lecture settings. As per occassion, I address the different audiences at different levels of complexity.
 
 
-## Development
+### Keynotes
 
-My current IDE of choice is [PhpStorm](https://www.jetbrains.com/phpstorm/). I've been predominantly writing PHP  you can't beat PhpStorm when it comes to navigating and refactoring a large codebase.
++ "The Decentralised Web as the Cause of Organisations" at the [closing conference](https://networkcultures.org/moneylab/2023/03/23/cfp-for-uva-amsterdam-conference-governance-by-technology-the-revolution-will-not-be-decentralized/) of the ERC Blockchain & Society Policy Research Lab, _Governance by technology  – the revolution will not be decentralized?_ in Amsterdam, The Netherlands (July, 2023).
++ "On Metaverses: Between Buzz and Opportunity" to the [Stuttgart Stock Exchange](https://www.boerse-stuttgart.de/en/)'s Scientific Advisory Board in Stuttgart, Germany (April, 2023).
++ "Strengths, Weaknesses, Opportunities, and Threats of Non-fungible Tokens in the Creative Industry" to [Melville Brand Design](https://melvilledesign.de/) in Munich, Germany (December, 2022).
 
-Taking autocompletion and other IDE features out of the picture, [Sublime Text](https://www.sublimetext.com) is still my favorite editor. Its snappiness and multi-cursor options make it feel very natural, and it supports anything you throw at it regardless of format or size. I use a GitHub light theme in both editors.
+### Academic presentations
 
-## Productivity
++ "Politics, Power, and Information Systems" (Public doctoral defence) at the University of Luxembourg's SnT in Luxembourg City, Luxembourg (November, 2023).
++ "Beyond A Fistful of Tumblers" at the International Conference on Information Systems in Hyderabad, India (December, 2023).
++ "Regulation of Unregulated Crypto-asset Wallet Software" at the University of Amsterdam's Institute for Information Law (IViR) in Amsterdam, The Netherlands (November, 2022).
++ "Decentralised Finance, Not so Decentralised" at the Hawaii International Conference of Information Systems in Honolulu, United States (January, 2022).
++ "The Construction of Self-sovereign Identity Systems" at the Hawaii International Conference of Information Systems in Honolulu, United States(January, 2022).
 
-My main browser is **Safari**. I value its low footprint and sync with my other devices, despite being the weakest of the bunch when it comes to devtools. When I occasionally need more advanced tooling, I switch to Chrome.
+### Lectures
 
-I use [Things](https://culturedcode.com/things/) to manage tasks that are time-sensitive or need a reminder. I tend to store more information in note-taking apps. [iA Writer](https://ia.net/writer) has always been a staple for writing and note-taking.
-
-I also want to mention [Excalidraw](https://excalidraw.com). I do a lot of UX & product design work, and Excalidraw has been my tool of choice to mock up interfaces or create diagrams to clarify specs & documentation.
-
-## Reading, learning, leisure
-
-On my Mac & phone I use [Reeder](https://reederapp.com). It's one of those Mac apps that has craft oozing out of it. It's tied to my [Instapaper](https://www.instapaper.com) & [Feedbin](https://feedbin.com) accounts. I use Feedbin over a free RSS aggregator because it has great email integration for newsletters. Instapaper is my read it later tool of choice because of its **Kindle** integration, where I do most reading.
-
-I store bookmarks in [Pinboard](https://pinboard.in). It's a fast, simple product that has just the amount of features I need. Another daily driver is [Tweetbot](https://tapbots.com/tweetbot/mac/) which I use on my Mac & phone to browse Twitter.
-
----
-
-## More setups across the web
-
-Some other people's setups and uses pages that inspired me in the past or for the future.
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr);">
-<div>
-{{% markdown %}}
-[Christoph Rumpel](https://christoph-rumpel.com/uses)\
-[Robin Malfait](https://robinmalfait.com/uses)\
-[Simon Sarris](https://twitter.com/simonsarris/status/1516762041482194948)
-{{%/ markdown %}}
-</div>
-<div>
-{{% markdown %}}
-[Freek Van der Herten](https://freek.dev/uses)\
-[Rafael Conde](https://setups.co/posts/rafael-conde)\
-[Stefan Zweifel](https://stefanzweifel.dev/uses)
-{{%/ markdown %}}
-</div>
-</div>
++ "Entrepreneurship powered by blockchain" at Kyoto University of Advanced Science, Bachelor of Finance and Entrepreneurship (January, 2024)
++ "Deep dive into Decentralised Finance" at University of Luxembourg, MSc Finance and Economics (November, 2021)
