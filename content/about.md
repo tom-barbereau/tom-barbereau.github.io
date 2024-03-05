@@ -32,9 +32,6 @@ I reside in Amsterdam (The Netherlands) and actively learns Dutch out of persona
 + University of Amsterdam, [Institute for Information Law](https://www.ivir.nl/) (IViR)
 + University of Luxembourg, [Interdisciplinary Centre for Security, Reliability and Trust](https://www.uni.lu/snt-en/) (SnT)
 
-
-+ Full resume accessible [here](https://nbviewer.org/github/tom-barbereau/tom-barbereau.github.io/blob/main/docs/Resume.pdf).
-
 ***
 
 ## Colophon
