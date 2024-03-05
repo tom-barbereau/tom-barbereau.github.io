@@ -32,7 +32,7 @@ The selection I provide here predominantly focuses on my background, in Science 
 [The Social Shaping of Technology](https://www.goodreads.com/en/book/show/988063) by _Donald MacKenzie_ and _Judy Wajcman_ (1985)
 : The collected works demonstrate how technology is affected at a fundamental level by the social context in which it develops.
 
-[The Social Construction of Technological Systems](https://mitpress.mit.edu/9780262517607/the-social-construction-of-technological-systems/) by _Wiebe Bijker_, _Trevor Pinch_, and _Thomas P. Hughes: (1987)
+[The Social Construction of Technological Systems](https://mitpress.mit.edu/9780262517607/the-social-construction-of-technological-systems/) by _Wiebe Bijker_, _Trevor Pinch_, and _Thomas Hughes_: (1987)
 : The authors formulate a groundbreaking approach to the study of science, technology, and society – as well as everything in between.
 
 [Machanising Proof](https://mitpress.mit.edu/9780262632959/mechanizing-proof/) by _Donald MacKenzie_ (2001)
