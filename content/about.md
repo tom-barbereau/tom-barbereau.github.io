@@ -24,7 +24,7 @@ The research in Luxembourg was complemented by a research visit at the Insitute 
 
 In winter 2023, I graduated with a PhD in Informatics (Information Systems Management) with a formal specialisation in the governance and management of distributed ledger technologies (blockchain). My [cumulative dissertation](https://orbilu.uni.lu/handle/10993/58926) introduces theories of organisation, innovation, and construction of technology, applies qualitative and quantitative methods, and ultimately contributes to understandings on the implications and implementations of three specific information systems: DAOs, the metaverse, and self-sovereign identity (SSI) systems. 
 
-I reside in Amsterdam (The Netherlands) and actively learns Dutch out of personal motives. Since my graduation, I traveled outside of Europe (spending 1 month in India and Japan respecively). I have a keen interest for local history, avidly collects vinyl, and enjoys cycling outside the city.
+I reside in Amsterdam (The Netherlands) and actively learn Dutch out of personal motives. Since my graduation, I traveled outside of Europe (spending 1 month in India and Japan respecively). I have a keen interest for local history, avidly collects vinyl, and enjoys cycling outside the city.
 
 ### Past affiliations
 
