@@ -6,10 +6,6 @@ description: |
 
 I publish in leading, peer-reviewed journals and conferences. My interdisciplinary work is the product of cross-functional collaboration. 
 
-<!--more-->
-
-***
-
 All publications are published under a CC BY 4.0 licence. You can access them via [GoogleScholar](https://scholar.google.com/citations?user=qvsfsEMAAAAJ&hl=en) or the University of Luxembourg's [repository](https://orbilu.uni.lu/profile?uid=50042838).
 
 
