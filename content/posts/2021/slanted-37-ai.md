@@ -5,7 +5,7 @@ date: 2021-05-01T11:00:00+02:00
 tags:
   - design
   - art
-  - artificial intelligence
+  - ai
 ---
 
 After [Slanted #34 - Europe](tom-barbereau.github.io/slanted-34-europe/) and [Slanted #36 - Coexist](tom-barbereau.github.io/slanted-36-coexist/), I contributed to the Slanted magazine for a third time. Again, as for the 36th issue, I worked together with Jack Dignam. Together, we reflected on artificial intelligence as a socio-cultural phenomenon. 
