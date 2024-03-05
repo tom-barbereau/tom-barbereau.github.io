@@ -5,6 +5,7 @@ date: 2022-09-25T11:00:00+02:00
 link: https://www.btc-echo.de/news/defi-governance-token-und-die-bildung-von-oligarchien-151322/
 tags:
   - defi
+  - web3
   - governance
 ---
 
