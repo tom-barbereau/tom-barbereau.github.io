@@ -1,4 +1,4 @@
-# Welcome to My Personal Website Repository
+# Welcome to the repository of my personal website
 
 Thank you for visiting my personal website hosted on GitHub! Below you'll find some information about this repository and how to navigate through it.
 
