@@ -1,5 +1,5 @@
 ---
-title: Uses
+title: Talks
 image: /media/desk-2022.jpeg
 description: My uses page, a spotlight of the tools I enjoy using most.
 ---
