@@ -7,7 +7,7 @@ I frequently talk at events and in academic conference or lecture settings. As p
 
 ### Keynotes
 
-"The Decentralised Web as the Cause of Organisations" 
+> "The Decentralised Web as the Cause of Organisations" 
 : At the [closing conference](https://networkcultures.org/moneylab/2023/03/23/cfp-for-uva-amsterdam-conference-governance-by-technology-the-revolution-will-not-be-decentralized/) of the ERC Blockchain & Society Policy Research Lab, _Governance by technology  – the revolution will not be decentralized?_ in Amsterdam, The Netherlands (July, 2023)
 
 "On Metaverses: Between Buzz and Opportunity" 
