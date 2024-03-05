@@ -5,22 +5,32 @@ description: A collection of my favorite reads, in the shape of papers, books or
 
 A collection of my favorite reads, in the shape of books or longform articles.
 
+The selection I provide here predominantly focuses on my background, in Science & Technology Studies. I believe these works to have far reaching impacts and to be of relevance beyond the discipline/s originally written in.
+
 ## General
+[The Net Delusion](https://www.goodreads.com/en/book/show/10003400) by _Evgeny Morozov_ (2010)
+: The book argues that "by falling for the supposedly democratising nature of the Internet, we may have missed how it also entrenches dictators, threatens dissidents, and makes it harder - not easier - to promote democracy."
+
+[Life 3.0](https://www.goodreads.com/en/book/show/34272565) by _Max Tegmark_ (2017)
+: The book does not "shy away from the full range of viewpoints or from the most controversial issues --from superintelligence to meaning, consciousness and the ultimate physical limits on life in the cosmos."
+
+[Who Rules the World?](https://us.macmillan.com/books/9781250131089/whorulestheworld) by _Noam Chomsky_ (2017)
+: The book offers a "probing examination of the nature of U.S. policies post-9/11, and the perils of valuing power above democracy and human rights."
+
+[The Age of Surveillance Capitalism](https://www.hachettebookgroup.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/?lens=publicaffairs) by _Shoshana Zuboff_ (2019)
+: The book argues that a "global architecture of behavior modification threatens human nature in the twenty-first century just as industrial capitalism disfigured the natural world in the twentieth."
 
 
+## Science & Technology Studies
 
-## Academic
-
-_The selection I provide here is focused on my background, in Science & Technology Studies. I believe these works to have far reaching impacts and to be of relevance beyond the discipline/s originally written in._
+[Science in Action](https://www.hup.harvard.edu/books/9780674792913) by _Bruno Latour_ (1988)
+: "Science can only be understood through its practice, by examination of science and technology in action."
 
 [The Social Shaping of Technology](https://www.goodreads.com/en/book/show/988063) by _Donald Angus MacKenzie_ and _Judy Wajcman_ (1985)
-: Technology is affected at a fundamental level by the social context in which it develops.
+: The collected works demonstrate how technology is affected at a fundamental level by the social context in which it develops.
 
 [The Social Construction of Technological Systems](https://mitpress.mit.edu/9780262517607/the-social-construction-of-technological-systems/) by _Wiebe Bijker_, _Trevor Pinch_, and _Thomas P. Hughes: (1987)
-: Influential book that introduced a groundbreaking approach to the study of science, technology, and society – as well as everything in between.
-
-[Bitcoin and Beyond: Cryptocurrencies, Blockchains and Global Governance](https://www.routledge.com/Bitcoin-and-Beyond-Cryptocurrencies-Blockchains-and-Global-Governance/Campbell-Verduyn/p/book/9780367264925) by _Malcolm Campbell-Verduyn_ (2015)
-: Its interdisciplinary contributions provide academics, policymakers, industry practitioners and the general public with more nuanced understandings of technological change in the changing character of governance within and across the borders of nation-states.
+: The authors formulate a groundbreaking approach to the study of science, technology, and society – as well as everything in between.
 
 
 ## Other
