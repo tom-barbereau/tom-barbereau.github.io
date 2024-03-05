@@ -1,6 +1,6 @@
 baseURL = "https://tom-barbereau.github.io"
 languageCode = "en-us"
-title = "Tom Barbereau"
+title = "Dr. Tom Barbereau"
 
 summaryLength = 1_000_000
 rssLimit = 10
