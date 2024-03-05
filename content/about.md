@@ -3,10 +3,32 @@ title: About
 description:
 ---
 
-I'm a designer and full-stack developer from Belgium. I work at [Spatie](https://spatie.be), a small but mighty web agency in Antwerp. We specialize in Laravel development, and have released a lot of open source packages.
+I am specialised in all-things-blockchain. Since 2016 I avidly follow developments in the space, with a keen eye for the Ethereum ecosystem and other public-permissonless applications. Over the past 3 years, I contributed impactful research on [decentralised autonomous organisations](https://doi.org/10.1016/j.techsoc.2023.102251) (DAOs), [tokenization in the art market](https://link.springer.com/chapter/10.1007/978-3-030-95108-5_8), and [self-sovereign identity](https://doi.org/10.1016/j.giq.2023.101873) (SSI) amongst others. Having successfully collaborated and published with lawyers, mathematicians, and computer scientists, my strength lies in cross-disciplinary efforts, to find logical relations between topics, and to take apart socio-technological controversies. 
 
-Over the years, I've floated between backend development, frontend development, design, and product/project management.
+## Biography
+
+I grew up in a bilingual (French, German) household and attended the European School of Karlsruhe. I completed my BA in Liberal Arts & Science with a specialisation in politics, philosophy, and economics (PPE) at the University of Groningen, The Netherlands in summer 2018. 
+
+As early as 2016-7 I developed a keen interest in blockchain, most notably, with the cryptocurrency Bitcoin and the then nascent Ethereum ecosystem. This interest led me to a 12-month internship at the company builder and Berlin-based incubator Next Big Thing AG. Here, I supported entrepreneurs in developing marketing strategies and presenting their buisnesses to clients. 
+
+At the pursuit of my interests in blockchain, I fortified my academic education by completion of an MSc in Science & Technology Studies at the University of Edinburgh, United Kingdom in summer 2020. My thesis provides a socio-economic review of the different understandings "decentralisation" takes in the context of Bitcoin. 
+
+In autumn 2020, I began as doctoral candidate at the University of Luxembourg’s group on Digital Financial Services & Cross-Organisational Digital Transformations to conduct early research on blockchain and DAOs from a socio-technical perspective. In that context, I worked on the implementation of the European Blockchain Services Infrastructure (EBSI) in Luxembourg (see [EBSILUX](https://ebsilux.lu/)) and provided scientfic [advisory services](https://tom-barbereau.github.io/portfolio/talks/). The research in Luxembourg was complemented by a research visit at the Insitute for Information Law at the University of Amsterdam. Throughout, I collaborated accross disciplines and research institutions, and I [extensively published](https://tom-barbereau.github.io/portfolio/academic/) in leading peer-reviewed journals and conference proceedings. My work is interdiciplinary by nature and focuses on technologies in the broad sense; it is situated at the intersections of law, philosophy, and the social sciences. 
+
+In winter 2023, I graduated with a PhD in Informatics (Information Systems Management) with a formal specialisation in the governance and management of distributed ledger technologies (blockchain). My [cumulative dissertation](https://orbilu.uni.lu/handle/10993/58926) introduces theories of organisation, innovation, and construction of technology, applies qualitative and quantitative methods, and ultimately contributes to understandings on the implications and implementations of three specific information systems: DAOs, the metaverse, and self-sovereign identity (SSI) systems. 
+
+![Overview](https://raw.githubusercontent.com/tom-barbereau/tom-barbereau.github.io/main/images/academic-overview.png)
+
+I reside in Amsterdam (The Netherlands) and actively learns Dutch out of personal motives. Since my graduation, I traveled outside of Europe (spending 1 month in India and Japan respecively). I have a keen interest for local history, avidly collects vinyl, and enjoys cycling outside the city.
+
++ Full resume accessible [here](https://nbviewer.org/github/tom-barbereau/tom-barbereau.github.io/blob/main/docs/Resume.pdf).
+
+### Past affiliations
+
++ World Economic Forum, [Global Shapers Community](https://www.globalshapers.org/hubs/luxembourg-city-hub/) (Luxembourg City Hub)
++ University of Amsterdam, [Institute for Information Law](https://www.ivir.nl/) (IViR)
++ University of Luxembourg, [Interdisciplinary Centre for Security, Reliability and Trust](https://www.uni.lu/snt-en/) (SnT)
 
 ## Colophon
 
-This blog is generated with Hugo and hosted on Netlify. Plain old vanilla CSS and zero JavaScript, except for some privacy friendly analytics with [Fathom](https://usefathom.com/). Fonts are Karla and Berkeley Mono. I wrote some notes on the most recent design [here](https://sebastiandedeyne.com/2022-redesign).
+This blog is generated with Hugo and hosted on Github. All credits for the design and frontend assets go to [Sebastian De Deyne](https://github.com/sebastiandedeyne/). I have recived permission to reuse these on an exceptional basis. Thanks Sebastian!
