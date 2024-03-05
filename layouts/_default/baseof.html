@@ -16,8 +16,8 @@
     <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
     <meta name="theme-color" content="#ffffff">
 
-    <link rel="alternate" type="application/rss+xml" href="/index.xml" title="Seb De Deyne" />
-    <link rel="alternate" type="application/rss+xml" href="/articles/index.xml" title="Seb De Deyne: Articles" />
+    <link rel="alternate" type="application/rss+xml" href="/index.xml" title="Tom Barbereau" />
+    <link rel="alternate" type="application/rss+xml" href="/articles/index.xml" title="Tom Barbereau: Articles" />
 
     {{ $site := resources.Get "css/site.css" }}
     {{ $fonts := resources.Get "css/fonts.css" }}
@@ -27,7 +27,7 @@
     {{ end }}
 
     {{ block "meta" . }}
-      <meta name="description" content="I'm a web developer and designer. I build websites & interfaces with JavaScript, CSS and PHP." />
+      <meta name="description" content="Interdisciplinary researcher and expert on the governance and management of emerging technologies; in particular, blockchain and decentralized autonomous organizations." />
       <meta property="og:title" content="{{ .Title }}" />
       <meta property="og:type" content="website" />
       <meta property="og:locale" content="en_US" />
@@ -40,7 +40,7 @@
       {{ with .Params.description }}
         <meta property="og:description" content="{{ . }}" />
       {{ else }}
-        <meta property="og:description" content="I'm a web developer and designer. I build websites & interfaces with JavaScript, CSS and PHP." />
+        <meta property="og:description" content="Interdisciplinary researcher and expert on the governance and management of emerging technologies; in particular, blockchain and decentralized autonomous organizations." />
       {{ end }}
     {{ end }}
 
@@ -52,7 +52,7 @@
     <div class="grid">
       <nav class="sidebar">
         <header class="sidebar-header">
-          <a href="/">Seb De Deyne</a>
+          <a href="/">Tom Barbereau</a>
         </header>
         {{ $section := index (split .RelPermalink "/") 1 }}
         {{ if not (in (slice "about" "speaking" "uses" "now" "newsletter" "reads") $section) }}
@@ -70,8 +70,9 @@
         </ul>
         <ul class="sidebar-follow">
           <li><a href="/newsletter" {{ if eq $section "newsletter" }}aria-current="page"{{ end }}>Newsletter</a></li>
-          <li><a href="https://twitter.com/sebdedeyne" class="link-external">Twitter</a></li>
-          <li><a rel="me" href="https://mastodon.social/@sebdd" class="link-external">Mastodon</a></li>
+          <li><a href="https://scholar.google.com/citations?user=qvsfsEMAAAAJ&hl=en" class="link-external">GoogleScholar</a></li>
+          <li><a href="https://twitter.com/TomBarbereau" class="link-external">Twitter</a></li>
+          <li><a rel="me" href="https://www.linkedin.com/in/tom-barbereau/" class="link-external">LinkedIn</a></li>
           {{/* <li><a rel="me" href="https://glass.photo/sebdd" class="link-external">Glass</a></li> */}}
           <li><a href="/index.xml" class="link-external">RSS</a></li>
         </ul>
@@ -79,8 +80,8 @@
       {{ block "main" . }}{{ end }}
       <footer class="footer">
         <p>
-          &lt;!-- est.2015 <a href="/">Seb De Deyne</a><br>
-          &nbsp;&nbsp;&nbsp;&nbsp; syntax highlighing with <a href="https://torchlight.dev">Torchlight</a> --&gt;
+          &lt;!-- est.2024 <a href="/">Tom Barbereau</a><br>
+          &nbsp;&nbsp;&nbsp;&nbsp; credits go to <a href="https://github.com/sebastiandedeyne/">Sebastian De Deyne</a> --&gt;
         </p>
       </footer>
     </div>
