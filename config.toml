@@ -1,6 +1,6 @@
-baseURL = "https://sebastiandedeyne.com"
+baseURL = "https://tom-barbereau.github.io"
 languageCode = "en-us"
-title = "Seb De Deyne"
+title = "Tom Barbereau"
 
 summaryLength = 1_000_000
 rssLimit = 10
@@ -14,7 +14,7 @@ paginate = 15
   links = "/links/:slug"
 
 [author]
-  name = "Seb De Deyne"
+  name = "Tom Barbereau"
 
 [outputs]
   home = ["HTML", "RSS"]
