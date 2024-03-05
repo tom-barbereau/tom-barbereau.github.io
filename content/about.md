@@ -35,6 +35,7 @@ I reside in Amsterdam (The Netherlands) and actively learns Dutch out of persona
 
 + Full resume accessible [here](https://nbviewer.org/github/tom-barbereau/tom-barbereau.github.io/blob/main/docs/Resume.pdf).
 
+***
 
 ## Colophon
 
