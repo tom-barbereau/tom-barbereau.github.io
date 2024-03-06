@@ -11,7 +11,7 @@
   {{ with .Params.image }}
     <meta property="og:image" content="{{ . | absURL }}" />
   {{ else }}
-    <meta property="og:image" content="https://sebastiandedeyne.com/media/me.jpg" />
+    <meta property="og:image" content="https://github.com/tom-barbereau/tom-barbereau.github.io/blob/main/static/media/me.jpeg" />
   {{ end }}
   {{ with .Params.description }}
     <meta name="description" content="{{ . }}" />
@@ -20,7 +20,7 @@
   {{ end }}
   <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}" />
   <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z0700" }}" />
-  <meta property="article:author" content="Sebastian De Deyne" />
+  <meta property="article:author" content="Tom Barbereau" />
   {{ with .Keywords }}
     <meta property="article:section" content="{{ index . 0 | title }}" />
   {{ end }}
