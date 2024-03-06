@@ -14,6 +14,7 @@ After [Slanted #34 - Europe](tom-barbereau.github.io/slanted-34-europe/) and [Sl
 
 > <details>
 > <summary> Blurb of Slanted #37 - AI </summary>
+>
 > Artificial Intelligence (A.I.) has become — besides being an over-hyped buzzword across industries (that the design world is no exception to)— a reality. We debate about the impacts of A.I. and its subsets, machine and deep learning, and consider everything from virtual to augmented realities, and how these technologies may change our lives, jobs, and social relationships altogether. 
 >
 > We live in times where decisions about what we want are no longer under our control. While we believe to be free (at least in our western world), algorithms dictate our lives, hopes, and dreams. We are the parents and children, gods and slaves of the technology we invented: although it’s a masterpiece, there is a great dependence. If “algorithms will liberate themselves entirely from us,” Peter Weibel proposes, dystopian science fictions may help us clarify what we desire and do not want. 
