@@ -19,16 +19,17 @@ You can reach me via [Telegram](https://t.me/tombarbereau) for any inquiries or 
       style="max-width: 22ch"
       placeholder="Subject"
     >
+    <br>
     <input
       type="message"
       value=""
       name="message"
-      style="max-width: 22ch"
-      placeholder="Message"
+      style="max-width: 22ch, max-heith:22ch"
+      placeholder="Lorem ipsum"
     >
     <input type="submit" value="Submit" />
   </div>
   <p>
-    Only for occasional updates. No tracking.
+    This form will open your client and create an email addressed to me.
   </p>
 </form>
