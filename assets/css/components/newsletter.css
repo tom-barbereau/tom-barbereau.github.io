@@ -19,7 +19,9 @@
 }
 
 input[type="email"],
-input[type="submit"] {
+input[type="submit"],
+input[type="subject"]:focus,
+input[type="message"]:focus {
   --shadow-color: cyan;
 
   display: inline-block;
@@ -33,13 +35,17 @@ input[type="submit"] {
 }
 
 input[type="email"]:focus,
+input[type="subject"]:focus,
+input[type="message"]:focus,
 input[type="submit"]:focus {
   --shadow-color: magenta;
 
   outline: none;
 }
 
-input[type="email"] {
+input[type="email"],
+input[type="subject"]:focus,
+input[type="message"]:focus {
   border: 2px solid black;
   padding: 0.25rem 0.5rem;
 }
