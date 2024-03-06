@@ -7,6 +7,8 @@ You can reach me via [Telegram](https://t.me/tombarbereau) for any inquiries or 
 
 ***
 
+## Email me
+
 <form
   method="GET"
   action="mailto:tbarbereau@gmail.com"
@@ -21,12 +23,8 @@ You can reach me via [Telegram](https://t.me/tombarbereau) for any inquiries or 
       style="width: 28ch"
       placeholder="Subject"
     >
-    <textarea
-      placeholder="Your Message"
-      rows="5"
-    ></textarea>
     <br>
-    <input type="submit" value="Submit" style="width: 14ch"/>
+    <input type="submit" value="Go!" style="width: 14ch"/>
   </div>
   <p>
     This form will open your client and create an email addressed to me.
