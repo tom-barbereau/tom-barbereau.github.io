@@ -10,6 +10,8 @@ tags:
 
 After [Slanted #34 - Europe](tom-barbereau.github.io/slanted-34-europe/) and [Slanted #36 - Coexist](tom-barbereau.github.io/slanted-36-coexist/), I contributed to the Slanted magazine for a third time. Again, as for the 36th issue, I worked together with Jack Dignam. Together, we reflected on artificial intelligence as a socio-cultural phenomenon. 
 
+<div style="left: 0px; width: 100%; height: 0px; position: relative; padding-bottom: 75%;"><div data-url="https://issuu.com/slanted/docs/slanted-publishers_ai_37_issuu" style="top: 0px; left: 0px; width: 100%; height: 100%; position: absolute;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script></div>
+
 > <details>
 > <summary> Blurb of Slanted #37 - AI </summary>
 > Artificial Intelligence (A.I.) has become — besides being an over-hyped buzzword across industries (that the design world is no exception to)— a reality. We debate about the impacts of A.I. and its subsets, machine and deep learning, and consider everything from virtual to augmented realities, and how these technologies may change our lives, jobs, and social relationships altogether. 
@@ -20,7 +22,5 @@ After [Slanted #34 - Europe](tom-barbereau.github.io/slanted-34-europe/) and [Sl
 >
 > More than ever this issue made us adventurers: looking with doubtful eyes at this new world of computation, numbers, and transhumanism, where (OMG!) machines are in many areas smarter than us and, occasionally, even encoded with higher ethical and moral standards than we will ever have.
 > </details>
-
-In parts alone, in parts together, we wrote on digital culture, privacy, and echo chambers, amongst other topics. 
 
 Check it out on [www.slanted.de](https://www.slanted.de/product/slanted-magazine-37-ai/). 
