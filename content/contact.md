@@ -20,13 +20,15 @@ You can reach me via [Telegram](https://t.me/tombarbereau) for any inquiries or 
       placeholder="Subject"
     >
     <br>
+    </div>
     <textarea
       name="message"
       style="max-width: 22ch"
       placeholder="Lorem ipsum"
       rows="4"
-    ></textarea>
+    </textarea>
     <br>
+    <div
     <input type="submit" value="Submit" />
   </div>
   <p>
