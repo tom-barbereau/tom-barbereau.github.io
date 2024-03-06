@@ -6,7 +6,7 @@ description:
 You can reach me via [Telegram](https://t.me/tombarbereau) for any inquiries or collaborations. Alternatively, you can connect with me on [LinkedIn](https://www.linkedin.com/in/tom-barbereau/) or [Twitter](https://twitter.com/TomBarbereau) to stay updated on my latest activities.
 
 <form action="mailto:tbarbereau@gmail.com" method="post" enctype="text/plain">
-  <label for="name">Name:</label><br>
+  <label for="subject">Subject:</label><br>
   <input type="text" id="name" name="name" required><br>
   <label for="email">Email:</label><br>
   <input type="email" id="email" name="email" required><br>
