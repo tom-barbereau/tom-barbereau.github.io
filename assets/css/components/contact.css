@@ -58,15 +58,22 @@ input[type="submit"] {
   padding: 0.25rem 0.75rem;
 }
 
-.textarea {
-  width: 100%;
+textarea {
+   --shadow-color: cyan;
+
   display: inline-block;
   font: inherit;
   font-family: var(--font-mono);
   border-radius: 0;
   -webkit-appearance: none;
   border: 1px solid transparent;
+  width:28ch;
   margin: 0;
   box-shadow: 2px 2px 0 0 white, 4px 4px 0 0 var(--shadow-color);
-  resize: vertical; /* Allow vertical resizing */
+}
+
+textarea:focus {
+  --shadow-color: magenta;
+
+  outline: none;
 }
