@@ -22,8 +22,6 @@ You can reach me via [Telegram](https://t.me/tombarbereau) for any inquiries or 
       placeholder="Subject"
     >
     <textarea
-      name="message"
-      style="width: 28ch"
       placeholder="Your Message"
       rows="5"
     ></textarea>
