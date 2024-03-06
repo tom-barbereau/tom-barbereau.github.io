@@ -7,7 +7,7 @@ You can reach me via [Telegram](https://t.me/tombarbereau) for any inquiries or 
 
 <form
   method="post"
-  action="https://sebastiandedeyne.mailcoach.app/subscribe/42d379f2-adba-46e5-8060-564a60af2f99"
+  action="mailto:tbarbereau@gmail.com"
   target="_blank"
   class="newsletter-form"
 >
@@ -16,12 +16,12 @@ You can reach me via [Telegram](https://t.me/tombarbereau) for any inquiries or 
       type="email"
       value=""
       name="email"
-      style="max-width: 22ch"
-      placeholder="Email"
+      style="max-width: 28ch"
+      placeholder="Subject"
     >
-    <input type="submit" value="Subscribe" />
+    <input type="submit" value="Email me" />
   </div>
   <p>
-    Only for occasional updates. No tracking.
+    Write the subject of your email. Your client will open accordingly.
   </p>
 </form>
