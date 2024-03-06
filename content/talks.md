@@ -15,9 +15,9 @@ I frequently talk at events and in academic conference or lecture settings. As p
 
 + "Politics, Power, and Information Systems" (Public doctoral defence) at the University of Luxembourg's Interdisciplinary Centre for Security, Reliability and Trust (SnT) in Luxembourg City, Luxembourg (November, 2023)
 + "Beyond A Fistful of Tumblers" at the International Conference on Information Systems in Hyderabad, India (December, 2023)
-+ "Regulation of Unregulated Crypto-asset Wallet Software" at the University of Amsterdam's Institute for Information Law (IViR) in Amsterdam, The Netherlands (November, 2022)
-+ "Decentralised Finance, Not so Decentralised" at the Hawaii International Conference of Information Systems in Honolulu, United States (January, 2022)
-+ "The Construction of Self-sovereign Identity Systems" at the Hawaii International Conference of Information Systems in Honolulu, United States(January, 2022)
++ "Regulation of Unregulated Crypto-asset Wallet Software" at the University of Amsterdam's [Institute for Information Law](https://www.ivir.nl/) (IViR) in Amsterdam, The Netherlands (November, 2022)
++ "Decentralised Finance, Not so Decentralised" at the [Hawaii International Conference of Information Systems](https://hicss.hawaii.edu/) (HICSS) in Honolulu, United States (January, 2022)
++ "The Construction of Self-sovereign Identity Systems" at the Hawaii International Conference of Information Systems (HICSS) in Honolulu, United States (January, 2022)
 
 ### Lectures
 
