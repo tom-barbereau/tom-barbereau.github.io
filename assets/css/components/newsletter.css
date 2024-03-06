@@ -20,8 +20,8 @@
 
 input[type="email"],
 input[type="submit"],
-input[type="subject"]:focus,
-input[type="message"]:focus {
+input[type="subject"],
+input[type="message"] {
   --shadow-color: cyan;
 
   display: inline-block;
@@ -44,8 +44,8 @@ input[type="submit"]:focus {
 }
 
 input[type="email"],
-input[type="subject"]:focus,
-input[type="message"]:focus {
+input[type="subject"],
+input[type="message"] {
   border: 2px solid black;
   padding: 0.25rem 0.5rem;
 }
