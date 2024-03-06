@@ -67,9 +67,14 @@ textarea {
   border-radius: 0;
   -webkit-appearance: none;
   border: 1px solid transparent;
-  width:28ch;
+  width:35ch;
   margin: 0;
   box-shadow: 2px 2px 0 0 white, 4px 4px 0 0 var(--shadow-color);
+}
+
+textarea {
+  border: 2px solid black;
+  padding: 0.25rem 0.5rem;
 }
 
 textarea:focus {
