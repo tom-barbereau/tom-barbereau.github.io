@@ -11,7 +11,8 @@ You can reach me via [Telegram](https://t.me/tombarbereau) for any inquiries or 
   target="_blank"
   class="contact-form"
 >
-    <input type="submit" value="Email me!" style="width: 28ch"/>
+  <div>
+  <input type="submit" value="Email me!" style="width: 28ch"/>
   </div>
   <p>
     This form will open your client and create an email addressed to me directly.
