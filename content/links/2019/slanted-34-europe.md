@@ -2,6 +2,7 @@
 title: "Slanted #34 - Europe"
 slug: slanted-34-europe
 date: 2019-11-01T11:00:00+02:00
+link: https://www.slanted.de/product/slanted-34-europe/
 tags:
   - design
   - art
@@ -20,5 +21,3 @@ In 2019, I contributed to the international typography and design magazine Slant
 > 
 > Slanted Magazine #34—Europe is a plea for a multi-faceted and vibrant Europe, against the backdrop of an Europe of nations, right-wing populism, and selfish politics. It is an inventory of Europe, showing a comment, a perspective, a feeling of illustrators, photographers, writers and graphic designers from all around Europe.
 > </details>
-
-Check it out on [www.slanted.de](https://www.slanted.de/product/slanted-34-europe/). 
