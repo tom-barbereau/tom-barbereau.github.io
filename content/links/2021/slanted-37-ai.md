@@ -1,6 +1,7 @@
 ---
 title: "Slanted #37 - Artificial Intelligence"
 slug: slanted-37-ai
+link: https://www.slanted.de/product/slanted-magazine-37-ai/
 date: 2021-05-01T11:00:00+02:00
 tags:
   - design
@@ -23,5 +24,3 @@ After [Slanted #34 - Europe](tom-barbereau.github.io/slanted-34-europe/) and [Sl
 >
 > More than ever this issue made us adventurers: looking with doubtful eyes at this new world of computation, numbers, and transhumanism, where (OMG!) machines are in many areas smarter than us and, occasionally, even encoded with higher ethical and moral standards than we will ever have.
 > </details>
-
-Check it out on [www.slanted.de](https://www.slanted.de/product/slanted-magazine-37-ai/). 
