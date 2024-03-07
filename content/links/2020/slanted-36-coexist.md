@@ -1,6 +1,7 @@
 ---
 title: "Slanted #36 - Coexist"
 slug: slanted-36-coexist
+link: https://www.slanted.de/product/slanted-magazine-36-coexist/
 date: 2020-10-01T11:00:00+02:00
 tags:
   - design
@@ -21,5 +22,3 @@ After [Slanted #34 - Europe](/slanted-34-europe/), I contributed to the Slanted 
 >
 > More than 450 designers, illustrators, photographers, writers and artists from all over the world contributed to this extra thick issue (almost 100 pages extra—352 instead of 256)
 > </details>
-
-Check it out on [www.slanted.de](https://www.slanted.de/product/slanted-magazine-36-coexist/). 
