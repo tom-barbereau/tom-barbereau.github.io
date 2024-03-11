@@ -1,4 +1,12 @@
 {{ define "main" }}
+<article>
+  <header>
+    <p>¿?¿?¿?</p>
+    <h1>404</h1>
+  </header>
+  <p>Page not found. Maybe go back <a href="https://tom-barbereau.github.io/">home</a>?</p>
+</article>
+<hr>
   {{ $permalink := .Permalink }}
   {{ range (.Paginate (where site.RegularPages "Section" "in" (slice "posts" "links"))).Pages }}
     {{ partial "article" (dict "Page" . "Permalink" $permalink) }}
