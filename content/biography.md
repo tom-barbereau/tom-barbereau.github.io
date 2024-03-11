@@ -4,24 +4,25 @@ description:
 ---
 
 ## Short
+Dr. Tom Barbereau is a scientist and researcher with a keen interest in emerging technologies and the dynamics of innovation. He holds a PhD from the University of Luxembourg, MSc from the University of Edinburgh, and BA from the University of Groningen. His specialisation lies in cross-disciplinary and functional collaboration, and his research was published in leading outlets in law, philosophy, and administrative science. The latest work focused on the governance of decentralised autonomous organisations and the distribution of political power. 
 
 
 ## Full
-I grew up in a bilingual (French, German) household and attended the European School of Karlsruhe. I completed my BA in Liberal Arts & Science with a specialisation in politics, philosophy, and economics (PPE) at the University of Groningen, The Netherlands in summer 2018. 
+Dr. Tom Josua Barbereau is a social scientist and interdiciplinary researcher with a keen interest in emerging, pervasive technologies and the socio-organisational dynamics of innovation. He was raised in a bilingual household, fluent in both French and German, and holds both nationalities. 
 
-As early as 2016-7 I developed a keen interest in blockchain, most notably, with the cryptocurrency Bitcoin and the then nascent Ethereum ecosystem. This interest led me to a 12-month internship at the company builder and Berlin-based incubator Next Big Thing AG. Here, I supported entrepreneurs in developing marketing strategies and presenting their buisnesses to clients. 
+In summer 2018, he graduated from the University of Groningen (The Netherlands) with a BA in Liberal Arts & Science with a specialization in politics, philosophy, and economics (PPE).
 
-At the pursuit of my interests in blockchain, I fortified my academic education by completion of an MSc in Science & Technology Studies at the University of Edinburgh, United Kingdom in summer 2020. My thesis provides a socio-economic review of the different understandings "decentralisation" takes in the context of Bitcoin. 
+As early as 2016-2017, his fascination with blockchain technology began, particularly around the first Bitcoin hype cycle and the emerging Ethereum ecosystem. This interest led him to a 12-month internship at Next Big Thing AG, a company builder and Berlin-based incubator. There, he provided support to entrepreneurs in crafting marketing strategies and presenting their ventures to potential clients.
 
-In autumn 2020, I began as doctoral candidate at the University of Luxembourg’s group on Digital Financial Services & Cross-Organisational Digital Transformations to conduct early research on blockchain and DAOs from a socio-technical perspective. In that context, I worked on the implementation of the European Blockchain Services Infrastructure (EBSI) in Luxembourg (see [EBSILUX](https://ebsilux.lu/)) and provided scientfic [advisory services](https://tom-barbereau.github.io/talks/). 
+In summer 2020, he graduated from the University of Edinburgh, United Kingdom with an MSc in Science & Technology Studies. His thesis offered a socio-economic analysis of the varied interpretations of "decentralization" within the context of Bitcoin. 
 
-The research in Luxembourg was complemented by a research visit at the Insitute for Information Law at the University of Amsterdam. Throughout, I collaborated accross disciplines and research institutions, and I [extensively published](https://tom-barbereau.github.io/portfolio/) in leading peer-reviewed journals and conference proceedings. My work is interdiciplinary by nature and focuses on technologies in the broad sense; it is situated at the intersections of law, philosophy, and the social sciences. 
+In winter 2023, he graduated from the University of Luxembourg, Luxembourg with a PhD in Informatics (Information Systems Management). Formally, his specialisation is in the _governance and management of distributed ledger technologies_ (blockchain). His [cumulative dissertation](https://orbilu.uni.lu/handle/10993/58926) introduces theories of organisation, innovation, and construction of technology, applies qualitative and quantitative methods, and ultimately contributes to understandings on the implications and implementations of three specific information systems: decentralised autonomous organisations (DAOs), the metaverse, and self-sovereign identity (SSI) systems. As doctoral candidate at the University of Luxembourg’s group on Digital Financial Services & Cross-Organisational Digital Transformations, he also worked on the implementation of the European Blockchain Services Infrastructure (EBSI) in Luxembourg (see [EBSILUX](https://ebsilux.lu/)) and provided scientfic [advisory services](https://tom-barbereau.github.io/talks/). 
 
-In winter 2023, I graduated with a PhD in Informatics (Information Systems Management) with a formal specialisation in the governance and management of distributed ledger technologies (blockchain). My [cumulative dissertation](https://orbilu.uni.lu/handle/10993/58926) introduces theories of organisation, innovation, and construction of technology, applies qualitative and quantitative methods, and ultimately contributes to understandings on the implications and implementations of three specific information systems: DAOs, the metaverse, and self-sovereign identity (SSI) systems. 
+The research in Luxembourg was complemented by a research visit at the Insitute for Information Law at the University of Amsterdam. His work is interdiciplinary by nature and focuses on technologies in the broad sense; it is situated at the intersections of law, philosophy, and the social sciences. Throughout, he collaborated accross disciplines and research institutions, and his work was [published](https://tom-barbereau.github.io/portfolio/) in leading peer-reviewed journals and conferences.
 
-I reside in Amsterdam (The Netherlands) and actively learn Dutch out of personal motives. Since my graduation, I traveled outside of Europe (spending 1 month in India and Japan respecively). I have a keen interest for local history, avidly collects vinyl, and enjoys cycling outside the city.
+***
 
-### Past affiliations
+### Affiliations
 
 + World Economic Forum, [Global Shapers Community](https://www.globalshapers.org/hubs/luxembourg-city-hub/) (Luxembourg City Hub)
 + University of Amsterdam, [Institute for Information Law](https://www.ivir.nl/) (IViR)
@@ -29,6 +30,6 @@ I reside in Amsterdam (The Netherlands) and actively learn Dutch out of personal
 
 ***
 
-## Colophon
+### Colophon
 
-This blog is generated with Hugo and hosted on Github. All credits for the design and frontend assets go to [Sebastian De Deyne](https://github.com/sebastiandedeyne/). I have recived permission to reuse these on an exceptional basis. Thanks Sebastian!
+This blog is generated with Hugo and hosted on Github. All credits for the design and frontend assets go to [Sebastian De Deyne](https://github.com/sebastiandedeyne/). he have recived permission to reuse these on an exceptional basis. Thanks Sebastian!
