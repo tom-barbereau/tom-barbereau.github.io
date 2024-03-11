@@ -1,10 +1,12 @@
 ---
-title: About
+title: Biography
 description:
 ---
 
+## Short
 
-## Full Biography
+
+## Full
 I grew up in a bilingual (French, German) household and attended the European School of Karlsruhe. I completed my BA in Liberal Arts & Science with a specialisation in politics, philosophy, and economics (PPE) at the University of Groningen, The Netherlands in summer 2018. 
 
 As early as 2016-7 I developed a keen interest in blockchain, most notably, with the cryptocurrency Bitcoin and the then nascent Ethereum ecosystem. This interest led me to a 12-month internship at the company builder and Berlin-based incubator Next Big Thing AG. Here, I supported entrepreneurs in developing marketing strategies and presenting their buisnesses to clients. 
