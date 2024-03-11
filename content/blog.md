@@ -1,13 +1,5 @@
 ---
 title: Blog
 description:
+layout: "blog"
 ---
-
-{{ define "main" }}
-  {{ $permalink := .Permalink }}
-  {{ range (.Paginate (where site.RegularPages "Section" "in" (slice "posts" "links"))).Pages }}
-    {{ partial "article" (dict "Page" . "Permalink" $permalink) }}
-    <hr>
-  {{ end }}
-  {{ template "_internal/pagination.html" . }}
-{{ end }}
