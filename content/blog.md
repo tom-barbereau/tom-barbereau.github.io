@@ -1,5 +1,6 @@
 ---
 title: Blog
 description:
-layout: "blog"
 ---
+
+whatever
