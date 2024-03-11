@@ -1,6 +1,3 @@
-<!-- layouts/_default/blog.html -->
-
-
 {{ define "blog" }}
   {{ $permalink := .Permalink }}
   {{ range (.Paginate (where site.RegularPages "Section" "in" (slice "posts" "links"))).Pages }}
