@@ -7,7 +7,10 @@ I frequently talk at events and in academic conference or lecture settings. As p
 
 ### Keynotes
 
-+ "The Decentralised Web as the Cause of Organisations"  at the [closing conference](https://networkcultures.org/moneylab/2023/03/23/cfp-for-uva-amsterdam-conference-governance-by-technology-the-revolution-will-not-be-decentralized/) of the ERC Blockchain & Society Policy Research Lab, _Governance by technology  – the revolution will not be decentralized?_ in Amsterdam, The Netherlands (July, 2023)
+**The Decentralised Web as the Cause of Organisations**
+: [Closing conference](https://networkcultures.org/moneylab/2023/03/23/cfp-for-uva-amsterdam-conference-governance-by-technology-the-revolution-will-not-be-decentralized/) of the ERC Blockchain & Society Policy Research Lab, _Governance by technology  – the revolution will not be decentralized?_ | Amsterdam, The Netherlands (July, 2023)
+
++ "The Decentralised Web as the Cause of Organisations"  at the  in Amsterdam, The Netherlands (July, 2023)
 + "On Metaverses: Between Buzz and Opportunity" at the [Stuttgart Stock Exchange](https://www.boerse-stuttgart.de/en/)'s Scientific Advisory Board in Stuttgart, Germany (April, 2023)
 + "Strengths, Weaknesses, Opportunities, and Threats of Non-fungible Tokens in the Creative Industry" at [Melville Brand Design](https://melvilledesign.de/) in Munich, Germany (December, 2022).
 
