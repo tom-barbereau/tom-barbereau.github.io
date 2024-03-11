@@ -10,8 +10,8 @@ paginate = 15
   tags = "tags"
 
 [permalinks]
-  posts = "/:slug"
-  links = "/links/:slug"
+  posts = "/blog/:slug"
+  links = "/blog/links/:slug"
 
 [author]
   name = "Tom Barbereau"
