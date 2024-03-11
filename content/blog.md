@@ -1,0 +1,11 @@
+---
+title: Blog
+description:
+---
+
+  {{ $permalink := .Permalink }}
+  {{ range (.Paginate (where site.RegularPages "Section" "in" (slice "posts" "links"))).Pages }}
+    {{ partial "article" (dict "Page" . "Permalink" $permalink) }}
+    <hr>
+  {{ end }}
+  {{ template "_internal/pagination.html" . }}
