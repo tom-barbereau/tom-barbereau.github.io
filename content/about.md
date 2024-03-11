@@ -3,13 +3,6 @@ title: About
 description:
 ---
 
-I am a social scientist with a keen interest in emerging technologies. In particular, as early as 2016, I avidly follow developments in the blockchain space and hold interest into the Ethereum ecosystem and other public-permissonless applications. 
-
-As academic, I contributed impactful research on [decentralised autonomous organisations](https://doi.org/10.1016/j.techsoc.2023.102251) (DAOs), [tokenization in the art market](https://link.springer.com/chapter/10.1007/978-3-030-95108-5_8), and [self-sovereign identity](https://doi.org/10.1016/j.giq.2023.101873) (SSI) amongst others. 
-
-Having successfully collaborated and published with lawyers, mathematicians, and computer scientists, my strength lies in cross-disciplinary collaboration, to find logical relations between topics, and to take apart socio-technological controversies. 
-
-***
 
 ## Full Biography
 I grew up in a bilingual (French, German) household and attended the European School of Karlsruhe. I completed my BA in Liberal Arts & Science with a specialisation in politics, philosophy, and economics (PPE) at the University of Groningen, The Netherlands in summer 2018. 
