@@ -1,4 +1,4 @@
-{{ define "main" }}
+{{ define "blog" }}
   {{ $permalink := .Permalink }}
   {{ range (.Paginate (where site.RegularPages "Section" "in" (slice "posts" "links"))).Pages }}
     {{ partial "article" (dict "Page" . "Permalink" $permalink) }}
