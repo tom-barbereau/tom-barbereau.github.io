@@ -6,10 +6,10 @@ description:
 Over the years, I talked at meetings, academic conference, or classrooms. As per occassion, I address the different audiences at different levels of complexity.
 
 **Entrepreneurship powered by blockchain** 
-: Lecture at the Kyoto University of Advanced Science, Bachelor of Finance and Entrepreneurship | Kyoto, Japan (January, 2024)
+: Lecture at the Kyoto University of Advanced Science | Kyoto, Japan (January, 2024)
 
 **Beyond A Fistful of Tumblers**
-: Talk at the International Conference on Information Systems | Hyderabad, India (December, 2023)
+: Talk at the [International Conference on Information Systems](https://icis2023.aisconferences.org/) | Hyderabad, India (December, 2023)
 
 **The Decentralised Web as the Cause of Organisations**
 : Keynote at [closing conference](https://networkcultures.org/moneylab/2023/03/23/cfp-for-uva-amsterdam-conference-governance-by-technology-the-revolution-will-not-be-decentralized/) of the ERC Blockchain & Society Policy Research Lab, _Governance by technology  – the revolution will not be decentralized?_ | Amsterdam, The Netherlands (July, 2023)
