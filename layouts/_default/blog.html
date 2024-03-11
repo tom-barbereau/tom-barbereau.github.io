@@ -1,23 +1,3 @@
 {{ define "main" }}
-  <article>
-    {{ if or (eq .Section "posts") (eq .Section "links") }}
-      {{ partial "header" (dict "Page" . "Permalink" .Permalink) }}
-    {{ else }}
-      <header>
-        <p>
-          <a href="{{ .Permalink }}">
-            {{ substr .RelPermalink 0 -1 }}
-          </a>
-        </p>
-        <h1>
-          {{ .Title }}
-        </h1>
-      </header>
-  <hr>
-  {{ $permalink := .Permalink }}
-  {{ range (.Paginate (where site.RegularPages "Section" "in" (slice "posts" "links"))).Pages }}
-    {{ partial "article" (dict "Page" . "Permalink" $permalink) }}
-    <hr>
-  {{ end }}
-  {{ template "_internal/pagination.html" . }}
+  {{ partial "blog" . }}
 {{ end }}
