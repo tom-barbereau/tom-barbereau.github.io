@@ -1,7 +1,6 @@
 ---
 title: Portfolio
-description: |
-  I publish in leading, peer-reviewed journals and conferences. My interdisciplinary work is the product of cross-functional collaboration.
+description: I publish in leading, peer-reviewed journals and conferences. My interdisciplinary work is the product of cross-functional collaboration.
 ---
 
 I publish in leading, peer-reviewed journals and conferences. My interdisciplinary work is the product of cross-functional collaboration. 
