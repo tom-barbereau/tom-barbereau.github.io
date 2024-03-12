@@ -1,6 +1,6 @@
 ---
 title: Talks
-description: 
+description: Over the years, I talked at meetings, academic conference, or classrooms. As per occassion, I address the different audiences at different levels of complexity.
 ---
 
 Over the years, I talked at meetings, academic conference, or classrooms. As per occassion, I address the different audiences at different levels of complexity.
