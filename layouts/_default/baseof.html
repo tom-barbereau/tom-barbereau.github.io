@@ -54,13 +54,6 @@
         <header class="sidebar-header">
           <a href="/">Dr. Tom Barbereau</a>
         </header>
-        {{ $section := index (split .RelPermalink "/") 1 }}
-        {{ if not (in (slice "about" "speaking" "uses" "now" "newsletter" "reads") $section) }}
-          {{ $section = "blog" }}
-        {{ end }}
-        <ul class="sidebar-blog">
-          <li><a href="/" {{ if eq $section "blog" }}aria-current="page"{{ end }}>Blog</a></li>
-        </ul>
         <ul class="sidebar-pages">
           <li><a href="/biography" {{ if eq $section "biography" }}aria-current="page"{{ end }}>Biography</a></li>
           <li><a href="/portfolio" {{ if eq $section "portfolio" }}aria-current="page"{{ end }}>Portfolio</a></li>
