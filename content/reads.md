@@ -3,9 +3,7 @@ title: Reads
 description: A collection of my favorite reads, in the shape of papers, books or longform articles.
 ---
 
-A collection of my favorite reads, in the shape of books or longform articles.
-
-The selection I provide here predominantly focuses on my background, in Science & Technology Studies. I believe these works to have far reaching impacts and to be of relevance beyond the discipline/s originally written in.
+A collection of past and currents reads, in the form of books and longform articles.
 
 ## General
 [The Net Delusion](https://www.goodreads.com/en/book/show/10003400) by _Evgeny Morozov_ (2010)
