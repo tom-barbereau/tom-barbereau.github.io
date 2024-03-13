@@ -55,7 +55,7 @@
           <a href="/">Dr. Tom Barbereau</a>
         </header>
         {{ $section := index (split .RelPermalink "/") 1 }}
-        {{ if not (in (slice "biography" "portfolio" "talks" "now" "contact" "reads") $section) }}
+        {{ if not (in (slice "biography" "portfolio" "talks" "contact" "reads") $section) }}
           {{ $section = "blog" }}
         {{ end }}
         <ul class="sidebar-blog">
@@ -66,7 +66,6 @@
           <li><a href="/portfolio" {{ if eq $section "portfolio" }}aria-current="page"{{ end }}>Portfolio</a></li>
           <li><a href="/talks" {{ if eq $section "talks" }}aria-current="page"{{ end }}>Talks</a></li>
           <li><a href="/reads" {{ if eq $section "reads" }}aria-current="page"{{ end }}>Reads</a></li>
-          <li><a href="/now" {{ if eq $section "now" }}aria-current="page"{{ end }}>Now</a></li>
         </ul>
         <ul class="sidebar-follow">
           <li><a href="/contact" {{ if eq $section "contact" }}aria-current="page"{{ end }}>Contact</a></li>
