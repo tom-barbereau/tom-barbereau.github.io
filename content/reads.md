@@ -10,7 +10,7 @@ A collection of past and currents reads, in the form of books and longform artic
 : The book argues that "by falling for the supposedly democratising nature of the Internet, we may have missed how it also entrenches dictators, threatens dissidents, and makes it harder - not easier - to promote democracy."
 
 [Life 3.0](https://www.goodreads.com/en/book/show/34272565) by _Max Tegmark_ (2017)
-: The book does not "shy away from the full range of viewpoints or from the most controversial issues --from superintelligence to meaning, consciousness and the ultimate physical limits on life in the cosmos."
+: The book does not "shy away from the full range of viewpoints or from the most controversial issues -- from superintelligence to meaning, consciousness and the ultimate physical limits on life in the cosmos."
 
 [Who Rules the World?](https://us.macmillan.com/books/9781250131089/whorulestheworld) by _Noam Chomsky_ (2017)
 : The book offers a "probing examination of the nature of U.S. policies post-9/11, and the perils of valuing power above democracy and human rights."
@@ -30,8 +30,11 @@ A collection of past and currents reads, in the form of books and longform artic
 [The Social Shaping of Technology](https://www.goodreads.com/en/book/show/988063) by _Donald MacKenzie_ and _Judy Wajcman_ (1985)
 : The collected works demonstrate how technology is affected at a fundamental level by the social context in which it develops.
 
-[The Social Construction of Technological Systems](https://mitpress.mit.edu/9780262517607/the-social-construction-of-technological-systems/) by _Wiebe Bijker_, _Trevor Pinch_, and _Thomas Hughes_: (1987)
+[The Social Construction of Technological Systems](https://mitpress.mit.edu/9780262517607/the-social-construction-of-technological-systems/) by _Wiebe Bijker_, _Trevor Pinch_, and _Thomas Hughes_ (1987)
 : The authors formulate a groundbreaking approach to the study of science, technology, and society – as well as everything in between.
+
+[Trust in Numbers](https://press.princeton.edu/books/paperback/9780691208411/trust-in-numbers) by _Theodore Porter_ (1995)
+: The book argues that "quantitative rigor is not inherent in science but arises from political and social pressures, and objectivity derives its impetus from cultural contexts."
 
 [Machanising Proof](https://mitpress.mit.edu/9780262632959/mechanizing-proof/) by _Donald MacKenzie_ (2001)
 : The book fundamentally argues that "in pursuing dependable computer systems, we do not obviate the need for trust in our collective human judgment."
