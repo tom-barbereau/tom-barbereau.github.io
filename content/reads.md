@@ -38,8 +38,3 @@ A collection of past and currents reads, in the form of books and longform artic
 
 [Machanising Proof](https://mitpress.mit.edu/9780262632959/mechanizing-proof/) by _Donald MacKenzie_ (2001)
 : The book fundamentally argues that "in pursuing dependable computer systems, we do not obviate the need for trust in our collective human judgment."
-
-
-## Other
-
-<script src="https://bibbase.org/show?bib=https://bibbase.org/show?bib=https://bibbase.org/f/Te2uYJttNXZTTEPJt/uploaded.bib&jsonp=1"></script> 
