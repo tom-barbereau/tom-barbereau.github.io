@@ -42,4 +42,4 @@ A collection of past and currents reads, in the form of books and longform artic
 
 ## Other
 
-
+<script src="https://bibbase.org/show?bib=https://bibbase.org/show?bib=https://bibbase.org/f/Te2uYJttNXZTTEPJt/uploaded.bib&jsonp=1"></script> 
