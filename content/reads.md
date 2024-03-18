@@ -43,4 +43,4 @@ A collection of past and currents reads, in the form of books and academic artic
 
 ## Selection of academic publications
 
- <script folding=0 theme=“side” commas=true src="https://bibbase.org/show?bib=https://bibbase.org/network/files/iHtsQCbqnAyTuuQQ8&msg=preview&fileId=iHtsQCbqnAyTuuQQ8&jsonp=1"></script> 
+ <script folding=0 theme=“side” commas=true src="https://bibbase.org/show?bib=https://bibbase.org/f/Te2uYJttNXZTTEPJt/Website.bib&jsonp=1"></script> 
