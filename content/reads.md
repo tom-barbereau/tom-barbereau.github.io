@@ -41,6 +41,8 @@ A collection of past and currents reads, in the form of books and academic artic
 [Machanising Proof](https://mitpress.mit.edu/9780262632959/mechanizing-proof/) by _Donald MacKenzie_ (2001)
 : The book fundamentally argues that "in pursuing dependable computer systems, we do not obviate the need for trust in our collective human judgment."
 
-## Selection of academic publications
+## Academic publications
 
- <scriptsrc="https://bibbase.org/show?bib=https://bibbase.org/show?bib=https://bibbase.org/f/Te2uYJttNXZTTEPJt/Website.bib&jsonp=1&folding=0&theme=side&commas=true"></script> 
+Over the years, I read compelling academic works that I repeatedly lean on. Below is a selection of these works, generated using [BibBase](https://bibbase.org/). 
+
+ <script src="https://bibbase.org/show?bib=https://bibbase.org/show?bib=https://bibbase.org/f/Te2uYJttNXZTTEPJt/Website.bib&jsonp=1&folding=0&theme=side&commas=true"></script> 
