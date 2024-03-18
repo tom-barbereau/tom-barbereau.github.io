@@ -46,7 +46,7 @@ A collection of past and currents reads, in the form of books and academic artic
 
 ## Academic publications
 
-Over the years, I read compelling academic works that I repeatedly lean on. Below is a selection of these works, generated using [BibBase](https://bibbase.org/). 
+Over the years, I read compelling academic works that I repeatedly lean on. Below is a selection of these works, generated using a Zotero collection in combination with BibBase. 
 
 <br>
 
