@@ -38,6 +38,9 @@ A collection of past and currents reads, in the form of books and academic artic
 [Trust in Numbers](https://press.princeton.edu/books/paperback/9780691208411/trust-in-numbers) by _Theodore Porter_ (1995)
 : The book argues that "quantitative rigor is not inherent in science but arises from political and social pressures, and objectivity derives its impetus from cultural contexts."
 
+[The Religion of Technology](https://www.penguinrandomhouse.com/books/331339/the-religion-of-technology-by-david-f-noble/) by _David Noble_ (1999)
+: The book "demonstrates that modern man’s enchantment with things technological was inspired by and grounded in religious expectations and the quest for transcendence and salvation."
+
 [Machanising Proof](https://mitpress.mit.edu/9780262632959/mechanizing-proof/) by _Donald MacKenzie_ (2001)
 : The book fundamentally argues that "in pursuing dependable computer systems, we do not obviate the need for trust in our collective human judgment."
 
@@ -45,4 +48,6 @@ A collection of past and currents reads, in the form of books and academic artic
 
 Over the years, I read compelling academic works that I repeatedly lean on. Below is a selection of these works, generated using [BibBase](https://bibbase.org/). 
 
- <script src="https://bibbase.org/show?bib=https://bibbase.org/show?bib=https://bibbase.org/f/Te2uYJttNXZTTEPJt/Website.bib&jsonp=1&folding=0&theme=side&commas=true"></script> 
+<br>
+
+ <script src="https://bibbase.org/show?bib=https://bibbase.org/show?bib=https://bibbase.org/f/Te2uYJttNXZTTEPJt/Website.bib&jsonp=1&folding=1&theme=side&commas=true&hidemenu=true"></script> 
