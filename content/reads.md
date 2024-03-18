@@ -3,9 +3,11 @@ title: Reads
 description: A collection of my favorite reads, in the shape of papers, books or longform articles.
 ---
 
-A collection of past and currents reads, in the form of books and longform articles.
+A collection of past and currents reads, in the form of books and academic articles.
 
-## General
+## Books
+
+### General
 [The Net Delusion](https://www.goodreads.com/en/book/show/10003400) by _Evgeny Morozov_ (2010)
 : The book argues that "by falling for the supposedly democratising nature of the Internet, we may have missed how it also entrenches dictators, threatens dissidents, and makes it harder - not easier - to promote democracy."
 
@@ -19,7 +21,7 @@ A collection of past and currents reads, in the form of books and longform artic
 : The book argues that a "global architecture of behavior modification threatens human nature in the twenty-first century just as industrial capitalism disfigured the natural world in the twentieth."
 
 
-## Science & Technology Studies
+### Science & Technology Studies
 
 [Networks of Power](https://www.press.jhu.edu/books/title/2031/networks-power) by _Thomas Hughes_ (1983)
 : The book "not only provides an accurate representation of large-scale technological change but also demonstrates that technology itself cannot be understood or directed unless placed in a cultural context."
@@ -38,3 +40,7 @@ A collection of past and currents reads, in the form of books and longform artic
 
 [Machanising Proof](https://mitpress.mit.edu/9780262632959/mechanizing-proof/) by _Donald MacKenzie_ (2001)
 : The book fundamentally argues that "in pursuing dependable computer systems, we do not obviate the need for trust in our collective human judgment."
+
+## Selection of academic publications
+
+ <script folding=0 theme=“side” commas=true src="https://bibbase.org/show?bib=https://bibbase.org/show?bib=https://bibbase.org/network/files/iHtsQCbqnAyTuuQQ8&msg=preview&fileId=iHtsQCbqnAyTuuQQ8&jsonp=1"></script> 
