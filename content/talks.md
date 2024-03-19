@@ -3,7 +3,7 @@ title: Talks
 description: Over the years, I talked at meetings, academic conference, or classrooms. As per occassion, I address the different audiences at different levels of complexity.
 ---
 
-Regularly, I <code>/talk</code> at academic conference, in classrooms, or professional events. As per occassion, I address the different audiences at different levels of complexity.
+Regularly, I talk at academic conference, in classrooms, or professional events. As per occassion, I address the different audiences at different levels of complexity.
 
 **Entrepreneurship powered by blockchain** 
 : Lecture at the Kyoto University of Advanced Science | _Kyoto, Japan_ (January, 2024)
