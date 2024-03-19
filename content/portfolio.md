@@ -9,6 +9,7 @@ All publications are published under a CC BY 4.0 licence. You can access them vi
 
 
 ### Journal publications
+<div style=“text-indent: -36px; padding-left: 36px;”>
 
 **Barbereau, T.**, & Bodó, B. (2023). "Beyond Financial Regulation of Crypto-asset Wallet Software: In Search of Secondary Liability".[^1] _Computer Law & Security Review_, 49. doi: [10.1016/j.clsr.2023.105829](https://doi.org/10.1016/j.clsr.2023.105829).
 
@@ -23,6 +24,8 @@ Delgado Fernandez, J., **Barbereau, T.**, & Papageorgiou, O. (2024). "Agent-base
 Smethurst, R., **Barbereau, T.**, & Nilsson, J. (2023). "The Metaverse's Thirtieth Anniversary: From a Science-Fictional Concept to the 'Connect Wallet' Prompt". _Philosophy & Technology_, 36 (51). doi: [10.1007/s13347-023-00612-z](https://link.springer.com/article/10.1007/s13347-023-00612-z).
 
 Weigl, L., **Barbereau, T.**, & Fridgen, G. (2023). "The Construction of Self-Sovereign Identity: Extending the Interpretive Flexibility of Technology Towards Institutions". _Government Information Quarterly_, 40 (4). doi: [10.1016/j.giq.2023.101873](https://doi.org/10.1016/j.giq.2023.101873).
+
+</div>
 
 All works are peer-reviewed and ranked in [top 10%](https://www.scopus.com/sources.uri) outlets.
 
