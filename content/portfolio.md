@@ -3,9 +3,7 @@ title: Portfolio
 description: I publish in leading, peer-reviewed journals and conferences. My interdisciplinary work is the product of cross-functional collaboration.
 ---
 
-I publish in leading, peer-reviewed journals and conferences. My interdisciplinary work is the product of cross-functional collaboration. 
-
-All publications are published under a CC BY 4.0 licence. You can access them via [GoogleScholar](https://scholar.google.com/citations?user=qvsfsEMAAAAJ&hl=en) or the University of Luxembourg's [repository](https://orbilu.uni.lu/profile?uid=50042838).
+I publish in leading, peer-reviewed journals and conferences. My interdisciplinary work is the product of cross-functional collaboration. All are published under a CC BY 4.0 licence. They are accessible on [GoogleScholar](https://scholar.google.com/citations?user=qvsfsEMAAAAJ&hl=en) or the University of Luxembourg's [repository](https://orbilu.uni.lu/profile?uid=50042838).
 
 
 ### Journal publications
