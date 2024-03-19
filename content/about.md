@@ -10,9 +10,9 @@ Dr. Tom Barbereau is a scientist and researcher with a keen interest in emerging
 
 | | |
 |--:|---|
-| **PhD** | Information Systems Management <br>University of Luxembourg  | 
-| **MSc** |  Science & Technology Studies <br>University of Edinburgh | 
-| **BA** |  Liberal Arts & Sciences (PPE) <br>University of Groningen |
+| **PhD** | University of Luxembourg  | 
+| **MSc** | University of Edinburgh | 
+| **BA** | University of Groningen |
 
 ### Affiliations
 
