@@ -14,6 +14,21 @@ Dr. Tom Barbereau is a scientist and researcher with a keen interest in emerging
 | **MSc** | University of Edinburgh | 
 | **BA** | University of Groningen |
 
+| | |
+|---:|---|
+| **Laptop** | MacBook Pro M1 2020 |
+| **Stand** | Rain Design mStand |
+| **Speakers** | Bose Companion 2 Series II speakers |
+| **Monitor** | LG 27MU67 |
+| **Keyboard** | Keychron Q1 w/ Phantom Red switches |
+| **Mouse** | Logitech MX Master |
+| **Mic** | Shure MV7 |
+| **Studio arm** | Rode PSA1 |
+| **Headphones** | AIAIAI TMA-2 |
+| **Desk** | Fully Jarvis w/ custom rubberwood top |
+| **Chair** | Herman Miller Aeron |
+| **Light** | Mr. Wattson |
+
 
 ### Affiliations
 
