@@ -8,6 +8,8 @@ Welcome to my about section! This is meant to provide a brief overview of my pro
 ## Biography
 Dr. Tom Barbereau is a scientist and researcher with a keen interest in emerging technologies and the dynamics of innovation. His specialisation lies in cross-disciplinary and functional collaboration, and his research was published in leading outlets in law, philosophy, and administrative science. The latest work focused on the governance of decentralised autonomous organisations and the distribution of political power. 
 
+Tom was a docotoral researcher at the University of Luxembourg's Digital Financial Services and Cross-Organisational Digital Transformations (FINATRAX) research group and a visiting researcher at the University of Amsterdam's Institute for Information Law (IViR). 
+
 ### Education
 
 | | |
@@ -22,6 +24,7 @@ Dr. Tom Barbereau is a scientist and researcher with a keen interest in emerging
 + World Economic Forum, [Global Shapers Community](https://www.globalshapers.org/hubs/luxembourg-city-hub/) (Luxembourg City Hub)
 + University of Amsterdam, [Institute for Information Law](https://www.ivir.nl/) (IViR)
 + University of Luxembourg, [Interdisciplinary Centre for Security, Reliability and Trust](https://www.uni.lu/snt-en/) (SnT)
++ University of Edinburgh, [Science, Technology and Innovation Studies](https://www.sps.ed.ac.uk/science-technology-and-innovation-studies) (STIS) group
 
 
 ***
