@@ -3,7 +3,7 @@ title: About
 description:
 ---
 
-Welcome to my <code>/about</code> section! This is meant to provide a brief overview of my professional profile. For a more complete, always up-to-date version please visit my [LinkedIn](https://www.linkedin.com/in/tom-barbereau/) profile.
+Welcome to my about section! This is meant to provide a brief overview of my professional profile. For a more complete, always up-to-date version please visit my [LinkedIn](https://www.linkedin.com/in/tom-barbereau/) profile.
 
 ## Biography
 Dr. Tom Barbereau is a scientist and researcher with a keen interest in emerging technologies and the dynamics of innovation. His specialisation lies in cross-disciplinary and functional collaboration, and his research was published in leading outlets in law, philosophy, and administrative science. The latest work focused on the governance of decentralised autonomous organisations and the distribution of political power. 
