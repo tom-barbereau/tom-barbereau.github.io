@@ -9,10 +9,11 @@ Dr. Tom Barbereau is a scientist and researcher with a keen interest in emerging
 ### Education
 
 | | |
-|--:|---|
+|---:|---|
 | **PhD** | University of Luxembourg  | 
 | **MSc** | University of Edinburgh | 
 | **BA** | University of Groningen |
+
 
 ### Affiliations
 
