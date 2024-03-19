@@ -23,8 +23,6 @@ Smethurst, R., **Barbereau, T.**, & Nilsson, J. (2023). "The Metaverse's Thirtie
 
 Weigl, L., **Barbereau, T.**, & Fridgen, G. (2023). "The Construction of Self-Sovereign Identity: Extending the Interpretive Flexibility of Technology Towards Institutions". _Government Information Quarterly_, 40 (4). doi: [10.1016/j.giq.2023.101873](https://doi.org/10.1016/j.giq.2023.101873).
 
-</div>
-
 All works are peer-reviewed and ranked in [top 10%](https://www.scopus.com/sources.uri) outlets.
 
 ### Conference proceedings
