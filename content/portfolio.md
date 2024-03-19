@@ -11,7 +11,7 @@ All publications are published under a CC BY 4.0 licence. You can access them vi
 ### Journal publications
 <div style=“text-indent: -36px; padding-left: 36px;”>
 
-**Barbereau, T.**, & Bodó, B. (2023). "Beyond Financial Regulation of Crypto-asset Wallet Software: In Search of Secondary Liability".[^1] _Computer Law & Security Review_, 49. doi: [10.1016/j.clsr.2023.105829](https://doi.org/10.1016/j.clsr.2023.105829).
+<p> **Barbereau, T.**, & Bodó, B. (2023). "Beyond Financial Regulation of Crypto-asset Wallet Software: In Search of Secondary Liability".[^1] _Computer Law & Security Review_, 49. doi: [10.1016/j.clsr.2023.105829](https://doi.org/10.1016/j.clsr.2023.105829). </p>
 
 [^1]: Research on the regulation of crypto-asset wallet software was conducted as part of the [Blockchain & Society Policy Research Lab](https://blockchain-society.science/), hosted by the Institute for Information Law, at the University of Amsterdam.
 
