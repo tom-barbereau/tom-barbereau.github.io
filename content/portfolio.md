@@ -26,19 +26,6 @@ I publish in leading, peer-reviewed journals and conferences. My interdisciplina
 
 ### Conference proceedings
 
-<form
-  method="GET"
-  action="mailto:tom-barbereau@proton.me"
-  target="_blank"
-  class="contact-form"
->
-  <p>
-    This form will open your client and create an email addressed to me directly.
-  </p>
-</form>
-
-All works are peer-reviewed and ranked in [top 25%](https://scie.lcc.uma.es/) conference proceedings.
-
 + **Barbereau, T.**, Ermolaev, E., Brennecke, M., Hartwich, E., & Sedlmeir, J. (2023). "Beyond a Fistful of Tumblers: Toward a Taxonomy of Ethereum-based Mixers". _Proceedings of the 44<sup>th</sup> International Conference on Information Systems_. URL: [aisel.aisnet.org/icis2023/cyber\_security/cyber\_security/13](https://aisel.aisnet.org/icis2023/cyber_security/cyber_security/13).
 
 + **Barbereau, T.**, Smethurst, R., Papageorgiou, O., Rieger, A., & Fridgen, G. (2022). "DeFi, Not So Decentralized: The Measured Distribution of Voting Rights". _Proceedings of the 55<sup>th</sup> Hawaii International Conference on System Sciences_. doi: [10.24251/HICSS.2022.734](https://doi.org/10.24251/HICSS.2022.734).
@@ -48,6 +35,16 @@ All works are peer-reviewed and ranked in [top 25%](https://scie.lcc.uma.es/) co
 + Weigl, L., **Barbereau, T.**, Rieger, A., & Fridgen, G. (2022). "The Social Construction of Self-Sovereign Identity: An Extended Model of Interpretive Flexibility". _Proceedings of the 55<sup>th</sup> Hawaii International Conference on System Sciences_. doi: [10.24251/HICSS.2022.316](https://doi.org/10.24251/HICSS.2022.316).
 
 + Weigl, L., **Barbereau, T.**, Sedlmeir, J., & Zavolokina, L. (2023). "Mediating the Tension between Data Sharing and Privacy: The Case of DMA and GDPR". _Proceedings of the 31<sup>st</sup> European Conference on Information Systems._ URL: [aisel.aisnet.org/ecis2023\_rip/49](https://aisel.aisnet.org/ecis2023_rip/49).
+
+<form
+  method="GET"
+  target="_blank"
+  class="contact-form"
+>
+  <p>
+    All works are ranked in <a target="_blank" href="https://scie.lcc.uma.es/">top 25%</a> conference proceedings.
+  </p>
+</form>
 
 ### Contributions to edited books
 
