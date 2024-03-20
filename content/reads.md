@@ -46,16 +46,16 @@ A collection of past and currents reads, in the form of books and academic artic
 
 ## Academic publications
 
-Over the years, I read compelling academic works that I repeatedly lean on. Below is a selection of these works, generated using a Zotero collection in combination with BibBase. 
+Over the years, I read compelling academic works that I repeatedly lean on. Below is a selection of these, generated using a Zotero collection in combination with BibBase.
 
 ### 2020 - today
-<script src="https://bibbase.org/show?bib=https://bibbase.org/f/Te2uYJttNXZTTEPJt/Website.bib&jsonp=1&folding=1&theme=side&commas=true&hidemenu=true&filter=year:202.&groupby="></script> 
+<script src="https://bibbase.org/show?bib=https://bibbase.org/f/Te2uYJttNXZTTEPJt/Website.bib&jsonp=1&folding=1&theme=side&commas=true&hidemenu=true&filter=year:202."></script> 
 
 ### 2010 - 2020
-<script src="https://bibbase.org/show?bib=https://bibbase.org/f/Te2uYJttNXZTTEPJt/Website.bib&jsonp=1&folding=1&theme=side&commas=true&hidemenu=true&filter=year:201.&groupby="></script> 
+<script src="https://bibbase.org/show?bib=https://bibbase.org/f/Te2uYJttNXZTTEPJt/Website.bib&jsonp=1&folding=1&theme=side&commas=true&hidemenu=true&filter=year:201."></script> 
 
 ### 2000 - 2010
-<script src="https://bibbase.org/show?bib=https://bibbase.org/f/Te2uYJttNXZTTEPJt/Website.bib&jsonp=1&folding=1&theme=side&commas=true&hidemenu=true&filter=year:200.&groupby="></script> 
+<script src="https://bibbase.org/show?bib=https://bibbase.org/f/Te2uYJttNXZTTEPJt/Website.bib&jsonp=1&folding=1&theme=side&commas=true&hidemenu=true&filter=year:200."></script> 
 
 ### 1950 - 2000
-<script src="https://bibbase.org/show?bib=https://bibbase.org/f/Te2uYJttNXZTTEPJt/Website.bib&jsonp=1&folding=1&theme=side&commas=true&hidemenu=true&filter=year:19..&groupby="></script> 
+<script src="https://bibbase.org/show?bib=https://bibbase.org/f/Te2uYJttNXZTTEPJt/Website.bib&jsonp=1&folding=1&theme=side&commas=true&hidemenu=true&filter=year:19.."></script> 
