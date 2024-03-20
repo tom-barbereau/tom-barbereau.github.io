@@ -6,7 +6,7 @@ description: I publish in leading, peer-reviewed journals and conferences. My in
 I publish in leading, peer-reviewed journals and conferences. My interdisciplinary work is the product of cross-functional collaboration. All are published under a CC BY 4.0 licence. They are accessible on [GoogleScholar](https://scholar.google.com/citations?user=qvsfsEMAAAAJ&hl=en) or the University of Luxembourg's [repository](https://orbilu.uni.lu/profile?uid=50042838).
 
 
-### Journal publications
+## Journal publications
 + **Barbereau, T.**, & Bodó, B. (2023). "Beyond Financial Regulation of Crypto-asset Wallet Software: In Search of Secondary Liability".[^1] _Computer Law & Security Review_, 49. doi: [10.1016/j.clsr.2023.105829](https://doi.org/10.1016/j.clsr.2023.105829).
 
 [^1]: Research on the regulation of crypto-asset wallet software was conducted as part of the [Blockchain & Society Policy Research Lab](https://blockchain-society.science/), hosted by the Institute for Information Law, at the University of Amsterdam.
@@ -23,7 +23,7 @@ I publish in leading, peer-reviewed journals and conferences. My interdisciplina
 
 All works are peer-reviewed and ranked in [top 10%](https://www.scopus.com/sources.uri) outlets.
 
-### Conference proceedings
+## Conference proceedings
 
 + **Barbereau, T.**, Ermolaev, E., Brennecke, M., Hartwich, E., & Sedlmeir, J. (2023). "Beyond a Fistful of Tumblers: Toward a Taxonomy of Ethereum-based Mixers". _Proceedings of the 44<sup>th</sup> International Conference on Information Systems_. URL: [aisel.aisnet.org/icis2023/cyber\_security/cyber\_security/13](https://aisel.aisnet.org/icis2023/cyber_security/cyber_security/13).
 
@@ -37,6 +37,17 @@ All works are peer-reviewed and ranked in [top 10%](https://www.scopus.com/sourc
 
 All works are peer-reviewed and ranked in [top 25%](https://scie.lcc.uma.es/) conference proceedings.
 
-### Contributions to edited books
+## Contributions to edited books
 
 + **Barbereau, T.**, Sedlmeir, J., Smethurst, R., Fridgen, G., & Rieger, A. (2022). "Tokenization and Regulatory Compliance for Art and Collectibles Markets: From Regulators' Demands for Transparency to Investors' Demands for Privacy". In: M. C. Lacity & H. Treiblmaier (Eds.), _Blockchains and the Token Economy_ (pp. 213–236). doi: [10.1007/978-3-030-95108-5\_8](https://doi.org/10.1007/978-3-030-95108-5_8).
+
+## Non-academic
+
+### In-press
++ **Barbereau, T.** (2020). "Interview With Jocks And Nerds: Gary Lichtenstein". _Jocks & Nerds_. url: [www.gleditions.com/post/interview-with-jocks-and-nerds-gary-lichtenstein](https://www.gleditions.com/post/interview-with-jocks-and-nerds-gary-lichtenstein).
++ Fridgen, G. & **Barbereau, T.** (2022). "DeFi Governance Tokens und die Bildung von Oligarchien". _BTC Echo_. url: [www.btc-echo.de/news/defi-governance-token-und-die-bildung-von-oligarchien-151322/](https://www.btc-echo.de/news/defi-governance-token-und-die-bildung-von-oligarchien-151322/)
+
+### Print
++ Slanted Magazine (2019). "#34 — Europe". ISSN 1867-6510. url: [slanted.de/slanted-34-europe/](https://www.slanted.de/product/slanted-34-europe/).
++ Slanted Magazine (2020). "#36 - COEXIST". ISSN 1867-6510. url: [slanted.de/slanted-36-coexist/](https://www.slanted.de/product/slanted-magazine-36-coexist/).
++ Slanted Magazine (2021). "#37 - AI". ISSN 1867-6510. url: [slanted.de/slanted-37-ai/](https://www.slanted.de/product/slanted-magazine-37-ai/).
