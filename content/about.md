@@ -8,7 +8,7 @@ Welcome to my about section! This is meant to provide a brief overview of my pro
 ## Biography
 Dr. Tom Barbereau is a social scientist and researcher with a keen interest in emerging technologies and the dynamics of innovation. His specialisation lies in cross-disciplinary collaboration and the study of socio-technical controversies.
 
-His latest work focused on the governance of decentralised autonomous organisations and the distribution of political power, as well as the development of self-sovereign identity systems. He publishes in leading [outlets](https://tom-barbereau.github.io/portfolio/#journal-publications) in law, philosophy, and administrative science. 
+His latest work focused on three distinct innovations: decentralised autonomous organisations, metaverse/s and self-sovereign identity systems. He published about these in leading [outlets](https://tom-barbereau.github.io/portfolio/#journal-publications) in law, philosophy, and administrative science respectively. 
 
 Tom was a docotoral researcher at the University of Luxembourg's Digital Financial Services and Cross-Organisational Digital Transformations (FINATRAX) research group and a visiting researcher at the University of Amsterdam's Institute for Information Law (IViR). 
 
