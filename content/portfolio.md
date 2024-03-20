@@ -10,7 +10,7 @@ I publish in leading, peer-reviewed journals and conferences. My interdisciplina
 ### Journal publications
 
 
-+ **Barbereau, T.**, & Bodó, B. (2023). "Beyond Financial Regulation of Crypto-asset Wallet Software: In Search of Secondary Liability".[^1] _Computer Law & Security Review_, 49. doi: [10.1016/j.clsr.2023.105829](https://doi.org/10.1016/j.clsr.2023.105829).
+<span style="display:inline-block; margin-left: 2em;"></span> **Barbereau, T.**, & Bodó, B. (2023). "Beyond Financial Regulation of Crypto-asset Wallet Software: In Search of Secondary Liability".[^1] _Computer Law & Security Review_, 49. doi: [10.1016/j.clsr.2023.105829](https://doi.org/10.1016/j.clsr.2023.105829).
 
 [^1]: Research on the regulation of crypto-asset wallet software was conducted as part of the [Blockchain & Society Policy Research Lab](https://blockchain-society.science/), hosted by the Institute for Information Law, at the University of Amsterdam.
 
