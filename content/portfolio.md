@@ -23,9 +23,8 @@ I publish in leading, peer-reviewed journals and conferences. My interdisciplina
 
 + Weigl, L., **Barbereau, T.**, & Fridgen, G. (2023). "The Construction of Self-Sovereign Identity: Extending the Interpretive Flexibility of Technology Towards Institutions". _Government Information Quarterly_, 40 (4). doi: [10.1016/j.giq.2023.101873](https://doi.org/10.1016/j.giq.2023.101873).
 
-  <p><small>
-    All works are ranked in <a target="_blank" href="https://www.scopus.com/sources.uri">top 10%</a> journals.
-  </p>
+
+All works are ranked in <a target="_blank" href="https://www.scopus.com/sources.uri">top 10%</a> journals.
 
 ### Conference proceedings
 
@@ -39,9 +38,8 @@ I publish in leading, peer-reviewed journals and conferences. My interdisciplina
 
 + Weigl, L., **Barbereau, T.**, Sedlmeir, J., & Zavolokina, L. (2023). "Mediating the Tension between Data Sharing and Privacy: The Case of DMA and GDPR". _Proceedings of the 31<sup>st</sup> European Conference on Information Systems._ URL: [aisel.aisnet.org/ecis2023\_rip/49](https://aisel.aisnet.org/ecis2023_rip/49).
 
-  <p><small>
-    All works are ranked in <a target="_blank" href="https://scie.lcc.uma.es/">top 25%</a> conference proceedings.
-  </p>
+
+All works are ranked in <a target="_blank" href="https://scie.lcc.uma.es/">top 25%</a> conference proceedings.
 
 ### Contributions to edited books
 
