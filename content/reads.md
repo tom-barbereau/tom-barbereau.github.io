@@ -50,4 +50,11 @@ Over the years, I read compelling academic works that I repeatedly lean on. Belo
 
 <br>
 
- <script src="https://bibbase.org/show?bib=https://bibbase.org/f/Te2uYJttNXZTTEPJt/Website.bib&jsonp=1&folding=1&theme=side&commas=true&hidemenu=true"></script> 
+
+<script src="https://bibbase.org/show?bib=https://bibbase.org/f/Te2uYJttNXZTTEPJt/Website.bib&jsonp=1&folding=1&theme=side&commas=true&hidemenu=true&filter=year:202."></script> 
+
+<script src="https://bibbase.org/show?bib=https://bibbase.org/f/Te2uYJttNXZTTEPJt/Website.bib&jsonp=1&folding=1&theme=side&commas=true&hidemenu=true&filter=year:200."></script> 
+
+<script src="https://bibbase.org/show?bib=https://bibbase.org/f/Te2uYJttNXZTTEPJt/Website.bib&jsonp=1&folding=1&theme=side&commas=true&hidemenu=true&filter=year:201."></script> 
+
+<script src="https://bibbase.org/show?bib=https://bibbase.org/f/Te2uYJttNXZTTEPJt/Website.bib&jsonp=1&folding=1&theme=side&commas=true&hidemenu=true&filter=year:19.."></script> 
