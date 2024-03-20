@@ -15,7 +15,7 @@ I publish in leading, peer-reviewed journals and conferences. My interdisciplina
 
 [^1]: Research on the regulation of crypto-asset wallet software was conducted as part of the [Blockchain & Society Policy Research Lab](https://blockchain-society.science/), hosted by the Institute for Information Law, at the University of Amsterdam.
 
-+ **Barbereau, T.**, Smethurst, R., Papageorgiou, O., Sedlmeir, J., & Fridgen, G. (2023). "Decentralised Finance's Timocratic Governance: The Distribution and Exercise of Tokenised Voting Rights".[^2] _Technology in Society_, 73. doi: [10.1016/j.techsoc.2023.102251](https://doi.org/10.1016/j.techsoc.2023.102251).
++ <b>Barbereau, T.</b>, Smethurst, R., Papageorgiou, O., Sedlmeir, J., & Fridgen, G. (2023). "Decentralised Finance's Timocratic Governance: The Distribution and Exercise of Tokenised Voting Rights".[^2] <i>Technology in Society</i>, 73. doi: [10.1016/j.techsoc.2023.102251](https://doi.org/10.1016/j.techsoc.2023.102251).
 
 [^2]: Research on the concentration of power in Decentralised Autonomous Organisations has recieved notable citations from the [Bank of Spain](https://repositorio.bde.es/handle/123456789/32628), the [Bank of International Settlements](https://www.bis.org/publ/work1066.htm), and the [European Banking Institute](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4692754).
 
