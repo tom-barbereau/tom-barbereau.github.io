@@ -3,10 +3,11 @@ title: Portfolio
 description: I publish in leading, peer-reviewed journals and conferences. My interdisciplinary work is the product of cross-functional collaboration.
 ---
 
+
+## Academic
 I publish in leading, peer-reviewed journals and conferences. My interdisciplinary work is the product of cross-functional collaboration. All are published under a CC BY 4.0 licence. They are accessible on [GoogleScholar](https://scholar.google.com/citations?user=qvsfsEMAAAAJ&hl=en) or the University of Luxembourg's [repository](https://orbilu.uni.lu/profile?uid=50042838).
 
-
-## Journal publications
+### Journal publications
 + **Barbereau, T.**, & Bodó, B. (2023). "Beyond Financial Regulation of Crypto-asset Wallet Software: In Search of Secondary Liability".[^1] _Computer Law & Security Review_, 49. doi: [10.1016/j.clsr.2023.105829](https://doi.org/10.1016/j.clsr.2023.105829).
 
 [^1]: Research on the regulation of crypto-asset wallet software was conducted as part of the [Blockchain & Society Policy Research Lab](https://blockchain-society.science/), hosted by the Institute for Information Law, at the University of Amsterdam.
@@ -21,9 +22,22 @@ I publish in leading, peer-reviewed journals and conferences. My interdisciplina
 
 + Weigl, L., **Barbereau, T.**, & Fridgen, G. (2023). "The Construction of Self-Sovereign Identity: Extending the Interpretive Flexibility of Technology Towards Institutions". _Government Information Quarterly_, 40 (4). doi: [10.1016/j.giq.2023.101873](https://doi.org/10.1016/j.giq.2023.101873).
 
-All works are peer-reviewed and ranked in [top 10%](https://www.scopus.com/sources.uri) outlets.
+=> All works are peer-reviewed and ranked in [top 10%](https://www.scopus.com/sources.uri) outlets.
 
-## Conference proceedings
+### Conference proceedings
+
+<form
+  method="GET"
+  action="mailto:tom-barbereau@proton.me"
+  target="_blank"
+  class="contact-form"
+>
+  <p>
+    This form will open your client and create an email addressed to me directly.
+  </p>
+</form>
+
+All works are peer-reviewed and ranked in [top 25%](https://scie.lcc.uma.es/) conference proceedings.
 
 + **Barbereau, T.**, Ermolaev, E., Brennecke, M., Hartwich, E., & Sedlmeir, J. (2023). "Beyond a Fistful of Tumblers: Toward a Taxonomy of Ethereum-based Mixers". _Proceedings of the 44<sup>th</sup> International Conference on Information Systems_. URL: [aisel.aisnet.org/icis2023/cyber\_security/cyber\_security/13](https://aisel.aisnet.org/icis2023/cyber_security/cyber_security/13).
 
@@ -35,13 +49,13 @@ All works are peer-reviewed and ranked in [top 10%](https://www.scopus.com/sourc
 
 + Weigl, L., **Barbereau, T.**, Sedlmeir, J., & Zavolokina, L. (2023). "Mediating the Tension between Data Sharing and Privacy: The Case of DMA and GDPR". _Proceedings of the 31<sup>st</sup> European Conference on Information Systems._ URL: [aisel.aisnet.org/ecis2023\_rip/49](https://aisel.aisnet.org/ecis2023_rip/49).
 
-All works are peer-reviewed and ranked in [top 25%](https://scie.lcc.uma.es/) conference proceedings.
-
-## Contributions to edited books
+### Contributions to edited books
 
 + **Barbereau, T.**, Sedlmeir, J., Smethurst, R., Fridgen, G., & Rieger, A. (2022). "Tokenization and Regulatory Compliance for Art and Collectibles Markets: From Regulators' Demands for Transparency to Investors' Demands for Privacy". In: M. C. Lacity & H. Treiblmaier (Eds.), _Blockchains and the Token Economy_ (pp. 213–236). doi: [10.1007/978-3-030-95108-5\_8](https://doi.org/10.1007/978-3-030-95108-5_8).
 
 ## Non-academic
+
+Over the years I had the opportuntity to write for press and contribute to printed magazines.  
 
 ### In-press
 + **Barbereau, T.** (2020). "Interview With Jocks And Nerds: Gary Lichtenstein". _Jocks & Nerds_. url: [www.gleditions.com/post/interview-with-jocks-and-nerds-gary-lichtenstein](https://www.gleditions.com/post/interview-with-jocks-and-nerds-gary-lichtenstein).
