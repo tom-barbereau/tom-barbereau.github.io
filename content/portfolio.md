@@ -37,7 +37,7 @@ Weigl, L., <b>Barbereau, T.</b>, & Fridgen, G. (2023). "The Construction of Self
 
 </div>
 
-<&rarr> All works are ranked in <a target="_blank" href="https://www.scopus.com/sources.uri">top 10%</a> journals.
+All works are ranked in <a target="_blank" href="https://www.scopus.com/sources.uri">top 10%</a> journals.
 
 ### Conference proceedings
 <div>
@@ -69,14 +69,14 @@ Weigl, L., <b>Barbereau, T.</b>, Sedlmeir, J., & Zavolokina, L. (2023). "Mediati
 
 </div>
 
-<&rarr> All works are ranked in <a target="_blank" href="https://scie.lcc.uma.es/">top 25%</a> conference proceedings.
+All works are ranked in <a target="_blank" href="https://scie.lcc.uma.es/">top 25%</a> conference proceedings.
 
 ### Contributions to edited books
 <div>
     
 <p style="text-indent: -1em; margin-left: 1em;">
 <b>Barbereau, T.</b>, Sedlmeir, J., Smethurst, R., Fridgen, G., & Rieger, A. (2022). "Tokenization and Regulatory Compliance for Art and Collectibles Markets: From Regulators' Demands for Transparency to Investors' Demands for Privacy". In: M. C. Lacity & H. Treiblmaier (Eds.), <i>Blockchains and the Token Economy</i> (pp. 213–236). doi: 
-<a href="https://doi.org/10.1007/978-3-030-95108-5_8">[10.1007/978-3-030-95108-5\_8</a>.
+<a href="https://doi.org/10.1007/978-3-030-95108-5_8">10.1007/978-3-030-95108-5\_8</a>.
 
 </p>
 </div>
@@ -85,11 +85,14 @@ Weigl, L., <b>Barbereau, T.</b>, Sedlmeir, J., & Zavolokina, L. (2023). "Mediati
 
 Over the years I had the opportuntity to write for press and contribute to printed magazines.  
 
-### In-press
-+ **Barbereau, T.** (2020). "Interview With Jocks And Nerds: Gary Lichtenstein". _Jocks & Nerds_. url: [www.gleditions.com/post/interview-with-jocks-and-nerds-gary-lichtenstein](https://www.gleditions.com/post/interview-with-jocks-and-nerds-gary-lichtenstein).
-+ Fridgen, G. & **Barbereau, T.** (2022). "DeFi Governance Tokens und die Bildung von Oligarchien". _BTC Echo_. url: [www.btc-echo.de/news/defi-governance-token-und-die-bildung-von-oligarchien-151322/](https://www.btc-echo.de/news/defi-governance-token-und-die-bildung-von-oligarchien-151322/)
+### In press
+**Barbereau, T.** (2020). "Interview With Jocks And Nerds: Gary Lichtenstein". _Jocks & Nerds_. url: [www.gleditions.com/post/interview-with-jocks-and-nerds-gary-lichtenstein](https://www.gleditions.com/post/interview-with-jocks-and-nerds-gary-lichtenstein).
 
-### Print
-+ Slanted Magazine (2019). "#34 — Europe". ISSN 1867-6510. url: [slanted.de/slanted-34-europe/](https://www.slanted.de/product/slanted-34-europe/).
-+ Slanted Magazine (2020). "#36 - COEXIST". ISSN 1867-6510. url: [slanted.de/slanted-36-coexist/](https://www.slanted.de/product/slanted-magazine-36-coexist/).
-+ Slanted Magazine (2021). "#37 - AI". ISSN 1867-6510. url: [slanted.de/slanted-37-ai/](https://www.slanted.de/product/slanted-magazine-37-ai/).
+Fridgen, G. & **Barbereau, T.** (2022). "DeFi Governance Tokens und die Bildung von Oligarchien". _BTC Echo_. url: [www.btc-echo.de/news/defi-governance-token-und-die-bildung-von-oligarchien-151322/](https://www.btc-echo.de/news/defi-governance-token-und-die-bildung-von-oligarchien-151322/)
+
+### In print
+Slanted Magazine (2019). "#34 — Europe". ISSN 1867-6510. url: [slanted.de/slanted-34-europe/](https://www.slanted.de/product/slanted-34-europe/).
+
+Slanted Magazine (2020). "#36 - COEXIST". ISSN 1867-6510. url: [slanted.de/slanted-36-coexist/](https://www.slanted.de/product/slanted-magazine-36-coexist/).
+
+Slanted Magazine (2021). "#37 - AI". ISSN 1867-6510. url: [slanted.de/slanted-37-ai/](https://www.slanted.de/product/slanted-magazine-37-ai/).
