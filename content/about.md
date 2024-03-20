@@ -14,9 +14,9 @@ Tom was a docotoral researcher at the University of Luxembourg's Digital Financi
 
 | | | |
 |---|---|---|
-| **PhD** | Information Systems Management | University of Luxembourg | 
-| **MSc** | Science & Technology Studies | University of Edinburgh | 
-| **BA** | Liberal Arts & Sciences (PPE) | University of Groningen |
+| **PhD** | Information Systems Management | Uni. of Luxembourg | 
+| **MSc** | Science & Technology Studies | Uni. of Edinburgh | 
+| **BA** | Liberal Arts & Sciences (PPE) | Uni. of Groningen |
 
 
 ### Affiliations
