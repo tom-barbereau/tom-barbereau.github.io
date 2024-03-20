@@ -8,7 +8,14 @@ description: I publish in leading, peer-reviewed journals and conferences. My in
 I publish in leading, peer-reviewed journals and conferences. My interdisciplinary work is the product of cross-functional collaboration. All are published under a CC BY 4.0 licence. They are accessible on [GoogleScholar](https://scholar.google.com/citations?user=qvsfsEMAAAAJ&hl=en) or the University of Luxembourg's [repository](https://orbilu.uni.lu/profile?uid=50042838).
 
 ### Journal publications
-+ **Barbereau, T.**, & Bodó, B. (2023). "Beyond Financial Regulation of Crypto-asset Wallet Software: In Search of Secondary Liability".[^1] _Computer Law & Security Review_, 49. doi: [10.1016/j.clsr.2023.105829](https://doi.org/10.1016/j.clsr.2023.105829).
+
+<div style=“text-indent: -36px; padding-left: 36px;”>
+
+<p> Barbereau, T. & Bodó, B. (2023). "Beyond Financial Regulation of Crypto-asset Wallet Software: In Search of Secondary Liability". Computer Law & Security Review, 49. doi: [10.1016/j.clsr.2023.105829](https://doi.org/10.1016/j.clsr.2023.105829). </p> 
+
+</div>
+
+**Barbereau, T.**, & Bodó, B. (2023). "Beyond Financial Regulation of Crypto-asset Wallet Software: In Search of Secondary Liability".[^1] _Computer Law & Security Review_, 49. doi: [10.1016/j.clsr.2023.105829](https://doi.org/10.1016/j.clsr.2023.105829).
 
 [^1]: Research on the regulation of crypto-asset wallet software was conducted as part of the [Blockchain & Society Policy Research Lab](https://blockchain-society.science/), hosted by the Institute for Information Law, at the University of Amsterdam.
 
