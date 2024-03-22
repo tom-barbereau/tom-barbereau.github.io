@@ -20,17 +20,9 @@ Tom was a docotoral researcher at the University of Luxembourg's Digital Financi
 | **MSc** | Science & Technology Studies | Uni. of Edinburgh | 
 | **BA** | Liberal Arts & Sciences (PPE) | Uni. of Groningen |
 
-
 ### Affiliations
 
 + World Economic Forum, [Global Shapers Community](https://www.globalshapers.org/hubs/luxembourg-city-hub/) (Luxembourg City Hub)
 + University of Amsterdam, [Institute for Information Law](https://www.ivir.nl/) (IViR)
 + University of Luxembourg, [Interdisciplinary Centre for Security, Reliability and Trust](https://www.uni.lu/snt-en/) (SnT)
 + University of Edinburgh, [Science, Technology and Innovation Studies](https://www.sps.ed.ac.uk/science-technology-and-innovation-studies) (STIS) group
-
-
-***
-
-## Colophon
-
-This blog is generated with Hugo and hosted on Github. All credits for the design and frontend assets go to [Sebastian De Deyne](https://github.com/sebastiandedeyne/). I recived permission to reuse these on an exceptional basis. Thanks Sebastian!
