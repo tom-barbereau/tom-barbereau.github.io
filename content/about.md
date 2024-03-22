@@ -22,7 +22,14 @@ Tom was a docotoral researcher at the University of Luxembourg's Digital Financi
 
 ### Affiliations
 
-+ World Economic Forum, [Global Shapers Community](https://www.globalshapers.org/hubs/luxembourg-city-hub/) (Luxembourg City Hub)
-+ University of Amsterdam, [Institute for Information Law](https://www.ivir.nl/) (IViR)
-+ University of Luxembourg, [Interdisciplinary Centre for Security, Reliability and Trust](https://www.uni.lu/snt-en/) (SnT)
-+ University of Edinburgh, [Science, Technology and Innovation Studies](https://www.sps.ed.ac.uk/science-technology-and-innovation-studies) (STIS) group
+[Global Shapers Community](https://www.globalshapers.org/hubs/luxembourg-city-hub/), Luxembourg City Hub
+: World Economic Forum | Luxembourg
+
+[Institute for Information Law](https://www.ivir.nl/) (IViR)
+: University of Amsterdam | The Netherlands
+
+[Interdisciplinary Centre for Security, Reliability and Trust](https://www.uni.lu/snt-en/) (SnT)
+: University of Luxembourg | Luxembourg
+
+[Science, Technology and Innovation Studies](https://www.sps.ed.ac.uk/science-technology-and-innovation-studies) (STIS) group
+: University of Edinburgh | United Kingdom
