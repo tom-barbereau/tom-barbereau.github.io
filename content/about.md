@@ -31,6 +31,6 @@ Tom was a docotoral researcher at the University of Luxembourg's Digital Financi
 
 ***
 
-### Colophon
+## Colophon
 
 This blog is generated with Hugo and hosted on Github. All credits for the design and frontend assets go to [Sebastian De Deyne](https://github.com/sebastiandedeyne/). I recived permission to reuse these on an exceptional basis. Thanks Sebastian!
