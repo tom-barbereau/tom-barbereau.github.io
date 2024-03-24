@@ -22,7 +22,7 @@ All academic works are published under a CC BY 4.0 licence. They are accessible 
 </p>
 
 <p style="text-indent: -1em; margin-left: 1em;"> 
-Delgado Fernandez, J., <b>Barbereau, T.</b>, & Papageorgiou, O. (2024). "Agent-based Model of Initial Token Allocations: Simulating Distributions post Fair Launch". <i>ACM Transactions of Management Information Systems</i>. doi: 
+Delgado Fernandez, J., <b>Barbereau, T.</b>, & Papageorgiou, O. (2024). "Agent-based Model of Initial Token Allocations: Simulating Distributions post Fair Launch". <i>ACM Transactions of Management Information Systems</i>, 15 (1). doi: 
     <a href="https://doi.org/10.1145/3649318">10.1145/3649318</a>.
 </p>
 
