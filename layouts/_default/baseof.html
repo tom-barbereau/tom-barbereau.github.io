@@ -51,23 +51,118 @@
 
       <script type="application/ld+json">
        {
-         "@context": "http://schema.org",
-         "@type": "ProfilePage",
-       "dateCreated": "2024-01-05T12:34:00-05:00",
-       "dateModified": "2024-03-24T14:53:00-05:00",
-        "mainEntity":{
-         "@type": "Person",
-         "name": "Tom Barbereau",
-         "jobTitle": "Researcher",
-        "honorificSuffix": "PhD",
-         "url": "https://tom-barbereau.github.io/",
-         "description": "Interdisciplinary researcher and expert on the governance and management of emerging technologies; in particular, blockchain and decentralized autonomous organizations.",
-         "sameAs": [
-           "https://www.linkedin.com/in/tom-barbereau",
-           "https://twitter.com/TomBarbereau",
-           "https://scholar.google.com/citations?user=qvsfsEMAAAAJ&hl=en"
-         ]
-       }
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://tom-barbereau.github.io/",
+      "url": "https://tom-barbereau.github.io/",
+      "name": "Tom Barbereau • Social scientist, Interdisciplinary researcher",
+      "isPartOf": {
+        "@id": "https://tom-barbereau.github.io/#website"
+      },
+      "about": {
+        "@id": "https://tom-barbereau.github.io/#/schema/person/fcdaa0ed105c7f2ca2f6d8c24104a256"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://tom-barbereau.github.io/#primaryimage"
+      },
+      "image": {
+        "@id": "https://tom-barbereau.github.io/#primaryimage"
+      },
+      "thumbnailUrl": "https://tom-barbereau.github.io/media/me.jpeg",
+      "datePublished": "2024-01-24T13:00:00+00:00",
+      "dateModified": "2024-03-05T09:00:43+00:00",
+      "breadcrumb": {
+        "@id": "https://tom-barbereau.github.io/#breadcrumb"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": [
+        {
+          "@type": "ReadAction",
+          "target": [
+            "https://tom-barbereau.github.io/"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "inLanguage": "en-US",
+      "@id": "https://tom-barbereau.github.io/#primaryimage",
+      "url": "https://tom-barbereau.github.io/media/me2.jpeg",
+      "contentUrl": "https://tom-barbereau.github.io/media/me2.jpeg",
+      "caption": "Tom Barbereau is a social scientist and interdiciplinary researcher specialised in the governance of technology."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://tom-barbereau.github.io/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home"
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://tom-barbereau.github.io/#website",
+      "url": "https://tom-barbereau.github.io/",
+      "name": "Tom Barbereau",
+      "description": "Social scientist, Interdisciplinary researcher",
+      "publisher": {
+        "@id": "https://tom-barbereau.github.io/#/schema/person/fcdaa0ed105c7f2ca2f6d8c24104a256"
+      },
+      "potentialAction": [
+        {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://tom-barbereau.github.io/?s={search_term_string}"
+          },
+          "query-input": "required name=search_term_string"
+        }
+      ],
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": [
+        "Person",
+        "Organization"
+      ],
+      "@id": "https://tom-barbereau.github.io/#/schema/person/fcdaa0ed105c7f2ca2f6d8c24104a256",
+      "name": "Tom Barbereau",
+      "image": {
+        "@type": "ImageObject",
+        "inLanguage": "en-US",
+        "@id": "https://tom-barbereau.github.io/#/schema/person/image/",
+        "url": "https://tom-barbereau.github.io/media/me.jpeg",
+        "contentUrl": "https://tom-barbereau.github.io/media/me.jpeg",
+        "width": 500,
+        "height": 500,
+        "caption": "Tom Barbereau"
+      },
+      "logo": {
+        "@id": "https://tom-barbereau.github.io/#/schema/person/image/"
+      },
+      "description": "Tom is a social scientist and interdisciplinary researcher specialised in the governance and management of emerging technologies; in particular, blockchain and decentralized autonomous organizations.",
+      "sameAs": [
+        "https://tom-barbereau.github.io/",
+        "https://www.linkedin.com/in/tom-barbereau/",
+        "https://twitter.com/TomBarbereau",
+        "https://scholar.google.com/citations?user=qvsfsEMAAAAJ&hl=en",
+        "https://www.researchgate.net/profile/Tom-Barbereau",
+        "https://orcid.org/0000-0002-8554-0991"
+      ],
+      "url": "https://tom-barbereau.github.io/about/",
+      "worksFor": {
+        "@type": "Organization",
+        "@id": "https://www.uni.lu/#organization",
+        "name": "University of Luxembourg",
+        "url": "https://www.uni.lu/"
+      },
+"alumniOf":{"@type":"EducationalOrganization","name":"University of Luxembourg","url":"https://www.uni.lu/","sameAs":"https://en.wikipedia.org/wiki/University_of_Luxembourg","address":{"@type":"PostalAddress","addressCountry":"LU","addressLocality":"Luxembourg","postalCode":"4365","streetAddress":"2 Avenue de l'Universite"}},"honorificSuffix":"PhD","familyName":"Barbereau","gender":"https://schema.org/Male","birthDate":"1996/05/18","nationality":"Germany"}]
        }
      </script>
    
