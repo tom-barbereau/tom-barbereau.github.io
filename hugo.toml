@@ -1,4 +1,4 @@
-baseURL = 'https://tom-barbereau.github.io'
+baseURL = 'https://www.tom-barbereau.eu/'
 languageCode = 'en-us'
 title = 'Tom Barbereau'
 theme = 'typo'
@@ -56,11 +56,11 @@ url = "https://github.com/tom-barbereau"
 
 [[params.social]]
 name = "googlescholar"
-url = "https://scholar.google.com/citations?user=YOUR_USER_ID"
+url = "https://scholar.google.com/citations?user=qvsfsEMAAAAJ&hl=en"
 
 [[params.social]]
 name = "bluesky"
-url = "https://bsky.app/profile/YOUR_HANDLE"
+url = "https://bsky.app/profile/tom-barbereau.bsky.social"
 
 # Main menu pages
 # [[params.menu]]
@@ -78,6 +78,10 @@ url = "/about"
 [[params.menu]]
 name = "portfolio"
 url = "/portfolio"
+
+[[params.menu]]
+name = "contact"
+url = "/contact"
 
 # [[params.menu]]
 # name = "tags"

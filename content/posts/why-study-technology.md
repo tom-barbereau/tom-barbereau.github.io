@@ -4,7 +4,7 @@ slug: "why-study-technology"
 date: 2025-04-09T14:19:33+02:00
 summary: "I discuss the reason why I chose to study technology in the way I do - critically!"
 description: "I discuss the reason why I chose to study technology in the way I do - critically!"
-toc: true
+toc: false
 readTime: true
 autonumber: true
 math: true

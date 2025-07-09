@@ -2,9 +2,9 @@
 title: "Surface scratch or raison d'être"
 slug: "surface-scratch"
 date: 2025-06-21T14:29:00+02:00
-summary: "A short summary of your post."
-description: "A longer description for SEO and previews."
-toc: true
+summary: "Reflections on the personal and academic influences that shaped my critical approach to technology and society."
+description: "An exploration of how family legacy, privilege, and academic tradition have informed my pragmatic and critical perspective on technology, decentralisation, and the pursuit of knowledge."
+toc: false
 readTime: true
 autonumber: true
 math: true

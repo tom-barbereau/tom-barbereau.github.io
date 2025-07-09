@@ -2,9 +2,9 @@
 title: "Neo-Luddism and critical theory in practice"
 slug: "neo-luddism"
 date: 2025-07-02T14:29:53+02:00
-summary: "A short summary of your post."
-description: "A longer description for SEO and previews."
-toc: true
+summary: "Reflections on neo-Luddism, its principles, and the challenges of applying critical theory to technology in contemporary society."
+description: "This post explores the ethos of neo-Luddism, examining its stance on technology, politics, and social responsibility. It discusses the movement's principles, the complexities of dismantling harmful technologies, and the importance of critical engagement for shaping a more equitable technological future."
+toc: false
 readTime: true
 autonumber: true
 math: true
