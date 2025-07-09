@@ -107,4 +107,4 @@ websiteId = "f6c4d624-c73d-490b-bbf8-d62bd0bd1c24"
 jsLocation = "https://cloud.umami.is/script.js"
 
 [permalinks]
-post = "/posts/:year/:month/:slug/"
+posts = "/posts/:year/:month/:slug/"
