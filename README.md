@@ -1,3 +1,3 @@
-# Tomfran's personal website
+# Tom Barbereau's personal website
 
 Hugo project using Typo as theme.

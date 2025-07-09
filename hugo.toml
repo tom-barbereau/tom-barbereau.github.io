@@ -28,8 +28,8 @@ My attention is dedicated to teaching, mostly in relation to cryptocurrencies an
 singleDateFormat = '2 Jan 2006'
 
 # Collection to display on home
-# homeCollectionTitle = 'Posts'
-# homeCollection = 'posts'
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
 
 # Lists parameters
 paginationSize = 100
@@ -67,9 +67,9 @@ url = "https://bsky.app/profile/YOUR_HANDLE"
 # name = "home"
 # url = "/"
 
-[[params.menu]]
-name = "posts"
-url = "/posts"
+# [[params.menu]]
+# name = "posts"
+# url = "/posts"
 
 [[params.menu]]
 name = "about"
@@ -105,3 +105,6 @@ gzip = false
 enable = true
 websiteId = "f6c4d624-c73d-490b-bbf8-d62bd0bd1c24"
 jsLocation = "https://cloud.umami.is/script.js"
+
+[permalinks]
+post = "/posts/:year/:month/:slug/"
