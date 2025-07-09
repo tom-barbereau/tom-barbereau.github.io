@@ -20,10 +20,10 @@ hideHeader = false
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
 I am a scientist specialist at TNO (Dutch Organisation for Applied Scientific Research), where my work focuses on the governance of digital technologies and their broader impact on organisations, the economy, and society. 
-My current research centres on cryptographic and privacy-enhancing technologies, exploring how these tools are means to foster or obsfucate trust. //
+My current research centres on cryptographic and privacy-enhancing technologies, exploring how these tools are means to foster or obsfucate trust.
 
 In addition, I am a research fellow at the Institute for Information Law (IViR) at the University of Amsterdam. 
-There, I contribute to academic teaching — primarily in the areas of blockchain, cryptocurrencies, and decentralised systems - from an interdiciplinary perspective."""
+There, I contribute to academic teaching — primarily in the areas of blockchain, cryptocurrencies, and decentralised systems — from an interdiciplinary perspective."""
 
 singleDateFormat = '2 Jan 2006'
 

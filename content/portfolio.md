@@ -7,7 +7,7 @@ hidePagination: true
 
 My strength lies in cross-disciplinary collaboration, to find logical relations between topics, and to untangle socio-technological controversies. I collaborate with lawyers, mathematicians, and computer scientists, and choose outlets that match the critical nature of my work.
 
-# Journal publications
+## Journal publications
 **Barbereau, T.** (2025). "Three concepts for the metaverse: Between fading fashion and eternal style". First Monday, 30(3). doi: [10.5210/fm.v30i3.13728](https://doi.org/10.5210/fm.v30i3.13728).
 
 Delgado Fernandez, J., **Barbereau, T.**, & Papageorgiou, O. (2024). “Agent-based Model of Initial Token Allocations: Simulating Distributions post Fair Launch”. ACM Transactions of Management Information Systems, 15 (1). doi: [10.1145/3649318](https://doi.org/10.1145/3649318).
@@ -20,7 +20,7 @@ Smethurst, R., **Barbereau, T.**, & Nilsson, J. (2023). “The Metaverse’s Thi
 
 Weigl, L., **Barbereau, T.**, & Fridgen, G. (2023). “The Construction of Self-Sovereign Identity: Extending the Interpretive Flexibility of Technology Towards Institutions”. Government Information Quarterly, 40 (4). doi: [10.1016/j.giq.2023.101873](https://doi.org/10.1016/j.giq.2023.101873).
 
-# Conference proceedings
+## Conference proceedings
 **Barbereau, T.**, Ermolaev, E., Brennecke, M., Hartwich, E., & Sedlmeir, J. (2023). “Beyond a Fistful of Tumblers: Toward a Taxonomy of Ethereum-based Mixers”. Proceedings of the 44th International Conference on Information Systems. URL: aisel.aisnet.org/icis2023/cyber_security/cyber_security/13.
 
 **Barbereau, T.**, Smethurst, R., Papageorgiou, O., Rieger, A., & Fridgen, G. (2022). “DeFi, Not So Decentralized: The Measured Distribution of Voting Rights”. Proceedings of the 55th Hawaii International Conference on System Sciences. doi: [10.24251/HICSS.2022.734](https://doi.org/10.24251/HICSS.2022.734).
@@ -31,7 +31,7 @@ Weigl, L., **Barbereau, T.**, Rieger, A., & Fridgen, G. (2022). “The Social Co
 
 Weigl, L., **Barbereau, T.**, Sedlmeir, J., & Zavolokina, L. (2023). “Mediating the Tension between Data Sharing and Privacy: The Case of DMA and GDPR”. Proceedings of the 31st European Conference on Information Systems. URL: aisel.aisnet.org/ecis2023_rip/49.
 
-# Contributions to edited books
+## Contributions to edited books
 **Barbereau, T.**, Weigl, L., & Pocher, N. (2024). "Financial Regulation, Political Context, and Technology in the European Union". In: Fridgen, G., Guggenberger, T., Sedlmeir, J., Urbach, N. (Eds.) Decentralization Technologies. doi: [10.1007/978-3-031-66047-4_2](https://doi.org/10.1007/978-3-031-66047-4_2) .
 
 Hartwich, E. & **Barbereau, T.** (2024). "Decentralized Finance and Blockchain in Traditional Finance: Economic Opportunities and Adoption Challenges". In: Fridgen, G., Guggenberger, T., Sedlmeir, J., Urbach, N. (Eds.) Decentralization Technologies. doi: [10.1007/978-3-031-66047-4_8](https://doi.org/10.1007/978-3-031-66047-4_8).
