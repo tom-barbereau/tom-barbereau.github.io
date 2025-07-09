@@ -19,11 +19,11 @@ hideHeader = false
 # Intro on main page, content in markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I am a scientist at TNO. My work focuses on the governance of digital technologies, including their impact on organisations, the economy, and society. 
-My current work and research focuses on cryptographic techniques and privacy-enhancing technologies.\\
-Asides, I am a research fellow at the Institute for Information Law at the University of Amsterdam. 
-My attention is dedicated to teaching, mostly in relation to cryptocurrencies and blockchain.
-"""
+I am a scientist specialist at TNO (Dutch Organisation for Applied Scientific Research), where my work focuses on the governance of digital technologies and their broader impact on organisations, the economy, and society. 
+My current research centres on cryptographic and privacy-enhancing technologies, exploring how these tools are means to foster or obsfucate trust. //
+
+In addition, I am a research fellow at the Institute for Information Law (IViR) at the University of Amsterdam. 
+There, I contribute to academic teaching — primarily in the areas of blockchain, cryptocurrencies, and decentralised systems - from an interdiciplinary perspective."""
 
 singleDateFormat = '2 Jan 2006'
 
@@ -78,6 +78,10 @@ url = "/about"
 [[params.menu]]
 name = "portfolio"
 url = "/portfolio"
+
+[[params.menu]]
+name = "talks"
+url = "/talks"
 
 [[params.menu]]
 name = "contact"
