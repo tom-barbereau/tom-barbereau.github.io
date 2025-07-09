@@ -1,4 +1,4 @@
-baseURL = 'https://tomfran.github.io'
+baseURL = 'https://tom-barbereau.github.io'
 languageCode = 'en-us'
 title = 'Tom Barbereau'
 theme = 'typo'
@@ -9,7 +9,7 @@ tag = 'tags'
 [params]
 # Home meta description
 description = "A technology oriented personal website and blog curated by Tom Barbereau."
-googleTagManagerId = "GTM-XXXXXXX" # Your Google Tag Manager ID
+googleTagManagerId = "G-X45SFSJKY5" # Your Google Tag Manager ID
 
 # Appearance settings
 theme = 'auto'
@@ -50,10 +50,17 @@ home = "~"
 name = "linkedin"
 url = "https://www.linkedin.com/in/tom.barbereau/"
 
-
 [[params.social]]
 name = "github"
-url = "https://github.com/tomfran"
+url = "https://github.com/tom-barbereau"
+
+[[params.social]]
+name = "googlescholar"
+url = "https://scholar.google.com/citations?user=YOUR_USER_ID"
+
+[[params.social]]
+name = "bluesky"
+url = "https://bsky.app/profile/YOUR_HANDLE"
 
 # Main menu pages
 # [[params.menu]]
@@ -94,16 +101,7 @@ pattern = "^.+\\.(png|jpg|gif|webp)$"
 cacheControl = "max-age=31536000, no-transform, public"
 gzip = false
 
-[params.giscus]
-enable = false
-repo = "tomfran/blog"
-repoid = "R_kgDOLtSszw"
-category = "General"
-categoryid = "DIC_kwDOLtSsz84CfLm4"
-mapping = "pathname"
-theme = "preferred_color_scheme"
-
 [params.umami]
 enable = true
-websiteId = "cc219028-551e-4f3b-bbc7-e124ca907ce0"
+websiteId = "f6c4d624-c73d-490b-bbf8-d62bd0bd1c24"
 jsLocation = "https://cloud.umami.is/script.js"

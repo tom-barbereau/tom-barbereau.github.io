@@ -38,6 +38,4 @@ Hartwich, E. & **Barbereau, T.** (2024). Decentralized Finance and Blockchain in
 
 Fernandez, J.D., Baima, R.L., **Barbereau, T.**, & Rieger, A. (2024). Opportunities and Applications of Federated Learning in the Financial Services Industry. In: Fridgen, G., Guggenberger, T., Sedlmeir, J., Urbach, N. (Eds.) Decentralization Technologies. doi: [10.1007/978-3-031-66047-4_11](https://doi.org/10.1007/978-3-031-66047-4_11).
 
-**Barbereau, T.**, Sedlmeir, J., Smethurst, R., Fridgen, G., & Rieger, A. (2022). “Tokenization and Regulatory Compliance for Art and Collectibles Markets: From Regulators’
-
 **Barbereau, T.**, Sedlmeir, J., Smethurst, R., Fridgen, G., & Rieger, A. (2022). “Tokenization and Regulatory Compliance for Art and Collectibles Markets: From Regulators’ Demands for Transparency to Investors’ Demands for Privacy”. In: M. C. Lacity & H. Treiblmaier (Eds.), Blockchains and the Token Economy. doi: [10.1007/978-3-030-95108-5_8](10.1007/978-3-030-95108-5_8).
