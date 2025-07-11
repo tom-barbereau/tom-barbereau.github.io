@@ -9,6 +9,8 @@ I am a scientist specialist at the Dutch Organisation for Applied Scientific Res
 
 By training and passion, I am a critical technologist. I ask the uncomfortable questions, doubt the deterministic narratives presented, and challenge the premises upon which a technological problem-solution rests. Though a specialist in the digital realm, I am still agnostic towards which actual technology in particular I work on.
 
+![Portrait of Tom Barbereau](/images/tom-barbereau.jpg)
+
 ## Research
 My strength lies in cross-disciplinary collaboration, to find logical relations between topics, and to untangle socio-technological controversies. I collaborate with lawyers, mathematicians, and computer scientists, and choose outlets that match the critical nature of my work. Among ohters, I published in: Technology in Society, Philosophy & Technology, Government Information Quarterly, Computer Law and Security Review, and Academy for Computing Machinery. You can also find my work in international conferences and edited books. My most up-to-date portfolio is on GoogleScholar.
 
