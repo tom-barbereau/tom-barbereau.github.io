@@ -15,5 +15,7 @@ Feel free to reach out for academic, professional, or collaboration opportunitie
 ## Registration
 
 TJB Research & Advisory
+
 1012 RR Amsterdam
+
 KVK 97077577
