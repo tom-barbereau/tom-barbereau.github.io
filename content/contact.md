@@ -11,3 +11,9 @@ If you would like to get in touch, please use one of the following channels:
 - **Bluesky:** [tom-barbereau.bsky.social](https://bsky.app/profile/tom-barbereau.bsky.social)
 
 Feel free to reach out for academic, professional, or collaboration opportunities.
+
+## Registration
+
+TJB Research & Advisory
+1012 RR Amsterdam
+KVK 97077577
