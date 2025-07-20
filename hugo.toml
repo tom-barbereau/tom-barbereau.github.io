@@ -118,11 +118,11 @@ jsLocation = "https://cloud.umami.is/script.js"
 [permalinks]
 posts = "/posts/:year/:month/:slug/"
 
-[outputFormats.RobotsTXT]
+[outputFormats.robots]
 mediaType = "text/plain"
 baseName = "robots"
 isPlainText = true
 notAlternative = true
 
 [outputs]
-home = ["HTML", "RSS", "RobotsTXT"]
+home = ["HTML", "RSS", "robots"]
