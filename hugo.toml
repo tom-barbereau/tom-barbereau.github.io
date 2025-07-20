@@ -116,3 +116,6 @@ jsLocation = "https://cloud.umami.is/script.js"
 
 [permalinks]
 posts = "/posts/:year/:month/:slug/"
+
+[outputs]
+home = ["HTML", "RSS", "RobotsTXT"]
