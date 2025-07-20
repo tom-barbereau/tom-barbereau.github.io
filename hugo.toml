@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'Tom Barbereau'
 theme = 'typo'
 
+canonifyURLs = true
+
 [taxonomies]
 tag = 'tags'
 
