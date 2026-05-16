@@ -1,11 +1,11 @@
 ---
 title: "Talks"
-description: "Contact details to reach out to Tom Barbereau."
+description: "Academic presentations and lectures on technology governance, blockchain, and cryptographic systems."
 hideBackToTop: true
 hidePagination: true
 ---
 
-Regularly, I talk at academic conference, in classrooms, or professional events. As per occassion, I address the different audiences at different levels of complexity.
+Regularly, I talk at academic conference, in classrooms, or professional events. As per occasion, I address the different audiences at different levels of complexity.
 
 **Blockchain and the law** 
 : Course (3ECTS) at the Université Catholique de Lille, Master (LLM) in Law, Governance & Technology | _Paris, France_ (May, 2025)

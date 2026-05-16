@@ -8,8 +8,8 @@ toc: false
 readTime: true
 autonumber: true
 math: true
-tags: ["your", "tags"]
-showTags: false
+tags: ["research", "technology", "decentralisation", "critical-perspective"]
+showTags: true
 ---
 
 My academic path was determined early. I come from privilege; one where my grandparents enjoyed an academic education, and so did their kids - my parents. All of them - willingly or unwillingly - fostered in me a pragmatic outlook.

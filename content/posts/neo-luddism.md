@@ -8,8 +8,8 @@ toc: false
 readTime: true
 autonumber: true
 math: true
-tags: ["your", "tags"]
-showTags: false
+tags: ["technology-criticism", "neo-luddism", "critical-theory", "research"]
+showTags: true
 ---
 
 My path to the study of technology is characterised by scepticism. Recently, after an introduction into the history of 1800s factory workers in England, I ponder over my alignment with the ethos of the luddites - and in particular, the so called neo-Luddite movement. “No technology is sacred in itself, but is only worthwhile insofar as it benefits society” writes Sadowski. One ought to “confront the harms done by capitalism and seek to address them by giving people more power over the technological systems that structure their lives.”

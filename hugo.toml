@@ -20,11 +20,15 @@ hideHeader = false
 # Intro on main page, content in markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I am a scientist specialist at TNO (Dutch Organisation for Applied Scientific Research), where my work focuses on the governance of digital technologies and their broader impact on organisations, the economy, and society. 
-My current research centres on cryptographic and privacy-enhancing technologies, exploring how these tools are means to foster or obsfucate trust.
+I am a scientist specialist at TNO (Dutch Organisation for Applied Scientific Research) and research fellow at the Institute for Information Law (IViR) at the University of Amsterdam.
 
-In addition, I am a research fellow at the Institute for Information Law (IViR) at the University of Amsterdam. 
-There, I contribute to academic teaching — primarily in the areas of blockchain, cryptocurrencies, and decentralised systems — from an interdiciplinary perspective."""
+**My work:**
+- Governance of digital technologies and their impact on organisations, economy, and society
+- Cryptographic and privacy-enhancing technologies, and how they foster or obfuscate trust
+- Teaching and research in blockchain, cryptocurrencies, and decentralised systems
+- Critical analysis of how power and politics shape technological systems
+
+I ask uncomfortable questions about who benefits from technology and why."""
 
 singleDateFormat = '2 Jan 2006'
 
@@ -97,6 +101,28 @@ url = "/contact"
 [markup]
 [markup.highlight]
 style = 'bw'
+
+# Featured publications (for homepage display)
+[[params.featured]]
+title = "Three concepts for the metaverse: Between fading fashion and eternal style"
+year = 2025
+publication = "First Monday"
+doi = "10.5210/fm.v30i3.13728"
+url = "https://doi.org/10.5210/fm.v30i3.13728"
+
+[[params.featured]]
+title = "Decentralised Finance's Timocratic Governance: The Distribution and Exercise of Tokenised Voting Rights"
+year = 2023
+publication = "Technology in Society"
+doi = "10.1016/j.techsoc.2023.102251"
+url = "https://doi.org/10.1016/j.techsoc.2023.102251"
+
+[[params.featured]]
+title = "Beyond Financial Regulation of Crypto-asset Wallet Software: In Search of Secondary Liability"
+year = 2023
+publication = "Computer Law & Security Review"
+doi = "10.1016/j.clsr.2023.105829"
+url = "https://doi.org/10.1016/j.clsr.2023.105829"
 
 # Deploy settings
 
