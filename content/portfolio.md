@@ -8,6 +8,8 @@ hidePagination: true
 My strength lies in cross-disciplinary collaboration, to find logical relations between topics, and to untangle socio-technological controversies. I collaborate with lawyers, mathematicians, and computer scientists, and choose outlets that match the critical nature of my work.
 
 ## Journal publications
+Smethurst, R., **Barbereau, T.**, & Bodo, B. (2025). Tokenistic Decentralisation or Non-Tokenistic Distributism: Capitalist Blockchain Narratives and Varoufakis’s Alternative. TripleC, 23(2), 320–337. doi: [10.31269/y8jpac38](https://doi.org/10.31269/y8jpac38).
+
 **Barbereau, T.** (2025). "Three concepts for the metaverse: Between fading fashion and eternal style". First Monday, 30(3). doi: [10.5210/fm.v30i3.13728](https://doi.org/10.5210/fm.v30i3.13728).
 
 Delgado Fernandez, J., **Barbereau, T.**, & Papageorgiou, O. (2024). “Agent-based Model of Initial Token Allocations: Simulating Distributions post Fair Launch”. ACM Transactions of Management Information Systems, 15 (1). doi: [10.1145/3649318](https://doi.org/10.1145/3649318).

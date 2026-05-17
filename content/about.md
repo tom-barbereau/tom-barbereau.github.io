@@ -7,11 +7,9 @@ hidePagination: true
 
 **A critical technologist asking uncomfortable questions about power, politics, and technology.**
 
-I am a scientist specialist at the Dutch Organisation for Applied Scientific Research (TNO) and research fellow at the Institute for Information Law (IViR) at the University of Amsterdam. I am born in Karlsruhe, Germany and was raised in a bilingual household (French, German). Since 2022, I live in the centre of Amsterdam.
+I am a senior scientist specialist at the Dutch Organisation for Applied Scientific Research (TNO) and research fellow at the Institute for Information Law (IViR) at the University of Amsterdam. I am born in Karlsruhe, Germany and was raised in a bilingual household (French, German). Since 2022, I live in the centre of Amsterdam.
 
 By training and passion, I am a critical technologist. I ask the uncomfortable questions, doubt the deterministic narratives presented, and challenge the premises upon which a technological problem-solution rests. Though a specialist in the digital realm, I am still agnostic towards which actual technology in particular I work on.
-
-![Portrait of Tom Barbereau](/images/portrait.jpg)
 
 ## Research
 My strength lies in cross-disciplinary collaboration, to find logical relations between topics, and to untangle socio-technological controversies. I collaborate with lawyers, mathematicians, and computer scientists, and choose outlets that match the critical nature of my work. Among others, I published in: Technology in Society, Philosophy & Technology, Government Information Quarterly, Computer Law and Security Review, and Academy for Computing Machinery. You can also find my work in international conferences and edited books. I list some publications on [this site](https://www.tom-barbereau.eu/portfolio/). My most up-to-date portfolio is on [GoogleScholar](https://scholar.google.com/citations?user=qvsfsEMAAAAJ&hl=en).

@@ -22,11 +22,7 @@ homeIntroTitle = 'Hi!'
 homeIntroContent = """
 I am a scientist specialist at TNO (Dutch Organisation for Applied Scientific Research) and research fellow at the Institute for Information Law (IViR) at the University of Amsterdam.
 
-**My work:**
-- Governance of digital technologies and their impact on organisations, economy, and society
-- Cryptographic and privacy-enhancing technologies, and how they foster or obfuscate trust
-- Teaching and research in blockchain, cryptocurrencies, and decentralised systems
-- Critical analysis of how power and politics shape technological systems
+My work centers on the goernance of digital technologies and their impact on organisations, economy, and society. My current focus is on cryptographic and privacy-enhancing technologies, and how they foster or obfuscate trust. At the center of most of my work is the critical analysis of how power and politics shape technological systems.
 
 I ask uncomfortable questions about who benefits from technology and why."""
 
